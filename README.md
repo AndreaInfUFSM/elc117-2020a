@@ -10,12 +10,245 @@ Sala: 368, CT - Práticas: 334, CT
 
 ## Sobre a disciplina
  - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
- - [Planejamento](https://docs.google.com/spreadsheets/d/1SAG5XDup7IAMEttgnsr3c_gx9kSYLDo4X-sBcCHJ8_o/edit?usp=sharing): planejamento de atividades de cada aula.
  <!--
+ - [Planejamento](https://docs.google.com/spreadsheets/d/1SAG5XDup7IAMEttgnsr3c_gx9kSYLDo4X-sBcCHJ8_o/edit?usp=sharing): planejamento de atividades de cada aula.
+
  - [Que comecem os jogos!](https://docs.google.com/forms/d/e/1FAIpQLSezBHYhYEVbOz-QTuPLERAVOA-5zjAPfrzCtPqyuNY6s6d3VQ/viewform): formulário para responder logo depois da primeira aula.
 -->
  
- 
+## Planejamento
+
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Aula</th>
+<th title="Field #2">Data</th>
+<th title="Field #3">Dia</th>
+<th title="Field #4">Assunto/Atividade</th>
+</tr></thead>
+<tbody><tr>
+<td align="right">1</td>
+<td>09/03/2020</td>
+<td>Seg</td>
+<td>Apresentação do programa da disciplina e do plano de ensino. Visão geral dos paradigmas de programação. </td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td>11/03/2020</td>
+<td>Qua</td>
+<td>Fundamentos de linguagens de programação funcional.Introdução a funções em linguagem Haskell.</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td>16/03/2020</td>
+<td>Seg</td>
+<td>Programação funcional: funções de alta ordem e funções anônimas em Haskell (prática).</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td>18/03/2020</td>
+<td>Qua</td>
+<td>Programação funcional: geração de listas e list comprehension.</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td>23/03/2020</td>
+<td>Seg</td>
+<td>Programação funcional: geração de listas e list comprehension (prática).</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td>25/03/2020</td>
+<td>Qua</td>
+<td>Programação funcional: uso de let..in, where e I/O.</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td>30/03/2020</td>
+<td>Seg</td>
+<td>Programação funcional: condicionais e recursividade (prática).</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td>01/04/2020</td>
+<td>Qua</td>
+<td>Programação lógica.</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td>06/04/2020</td>
+<td>Seg</td>
+<td>Programação lógica: predicados em Prolog (prática).</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td>08/04/2020</td>
+<td>Qua</td>
+<td>Programação lógica: listas e recursão em Prolog.</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td>13/04/2020</td>
+<td>Seg</td>
+<td>Programação lógica: listas e recursão em Prolog.(prática).</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td>15/04/2020</td>
+<td>Qua</td>
+<td>Escola Regional de Alto Desempenho</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td>20/04/2020</td>
+<td>Seg</td>
+<td>Dia não letivo, conforme calendário acadêmico 2020.</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td>22/04/2020</td>
+<td>Qua</td>
+<td>Programação lógica: controle da execução de programas em Prolog.</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td>27/04/2020</td>
+<td>Seg</td>
+<td>Prova primeiro bimestre.</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td>29/04/2020</td>
+<td>Qua</td>
+<td>Correção da prova. Apresentações de trabalho do primeiro bimestre.</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td>04/05/2020</td>
+<td>Seg</td>
+<td>Programação orientada a objetos.</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td>06/05/2020</td>
+<td>Qua</td>
+<td>Programação orientada a objetos.</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td>11/05/2020</td>
+<td>Seg</td>
+<td>Programação orientada a objetos (prática).</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td>13/05/2020</td>
+<td>Qua</td>
+<td>Programação orientada a objetos.</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td>18/05/2020</td>
+<td>Seg</td>
+<td>Programação orientada a objetos  (prática).</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td>20/05/2020</td>
+<td>Qua</td>
+<td>Programação orientada a objetos.</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td>25/05/2020</td>
+<td>Seg</td>
+<td>Programação orientada a objetos  (prática).</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td>27/05/2020</td>
+<td>Qua</td>
+<td>Programação orientada a objetos.</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td>01/06/2020</td>
+<td>Seg</td>
+<td>Programação orientada a objetos  (prática).</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td>03/06/2020</td>
+<td>Qua</td>
+<td>Programação orientada a objetos.</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td>08/06/2020</td>
+<td>Seg</td>
+<td>Programação orientada a objetos  (prática).</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td>10/06/2020</td>
+<td>Qua</td>
+<td>Programação concorrente.</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td>15/06/2020</td>
+<td>Seg</td>
+<td>Programação concorrente  (prática).</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td>17/06/2020</td>
+<td>Qua</td>
+<td>Programação concorrente.</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td>22/06/2020</td>
+<td>Seg</td>
+<td>Programação concorrente  (prática).</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td>24/06/2020</td>
+<td>Qua</td>
+<td> </td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td>29/06/2020</td>
+<td>Seg</td>
+<td>Prova segundo bimestre.</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td>01/07/2020</td>
+<td>Qua</td>
+<td> </td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td>06/07/2020</td>
+<td>Seg</td>
+<td> </td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td>08/07/2020</td>
+<td>Qua</td>
+<td> </td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td>13/07/2020</td>
+<td>Seg</td>
+<td>Avaliação Final (Exame)</td>
+</tr>
+</tbody></table>
+
 ## Avaliações
 
  - Primeiro bimestre  
@@ -37,6 +270,9 @@ Sala: 368, CT - Práticas: 334, CT
  - Testes (quizzes) de Java com correção automática: [(1)](https://testmoz.com/2090367) [(2)](https://testmoz.com/2132271)
  
 
+
+
+<!--
 ## Slides
 
 Disponíveis na pasta [slides](slides). 
@@ -50,7 +286,7 @@ Disponíveis na pasta [praticas](praticas).
 
 Disponíveis na pasta [trabalhos](trabalhos).
 
-<!--
+
  1. [Programação funcional em Haskell](trabalhos/t1) (entrega até domingo, 18/03/2018, 23:59)
  2. [Mais programação funcional em Haskell](trabalhos/t2) (entrega até segunda, 2/4/2018, 23:59)
  3. [Programação lógica em Prolog](trabalhos/t3) (entrega até segunda, 16/4/2018, 23:59)
