@@ -38,8 +38,8 @@ Sala: 368, CT - Práticas: 334, CT
 <td>11/03/2020</td>
 <td>Qua</td>
 <td>
-[Introdução à programação programação funcional](https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/edit?usp=sharing).
-[Introdução a funções em linguagem Haskell]((https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing)). </td>
+ <a href="https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/edit?usp=sharing">Introdução à programação programação funcional</a>. <a href="https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing">Introdução a funções em linguagem Haskell </a>. 
+ </td>
 </tr>
 <tr>
 <td align="right">3</td>
