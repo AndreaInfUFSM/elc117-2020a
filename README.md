@@ -29,8 +29,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">1</td>
 <td>09/03/2020</td>
 <td>Seg</td>
-<td>Apresentação do programa da disciplina e do plano de ensino. Visão geral dos paradigmas de programação. Slides:
-[Introdução à disciplina](https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing)
+<td>Apresentação do programa da disciplina e do plano de ensino. <a href="https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing">Introdução à disciplina</a>.
  </td>
 </tr>
 <tr>
