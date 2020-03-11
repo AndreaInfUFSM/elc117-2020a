@@ -29,13 +29,17 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">1</td>
 <td>09/03/2020</td>
 <td>Seg</td>
-<td>Apresentação do programa da disciplina e do plano de ensino. Visão geral dos paradigmas de programação. Slides: [Introdução à disciplina](https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing)</td>
+<td>Apresentação do programa da disciplina e do plano de ensino. Visão geral dos paradigmas de programação. Slides:
+[Introdução à disciplina](https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing)
+ </td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td>11/03/2020</td>
 <td>Qua</td>
-<td>[Introdução à programação programação funcional](https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/edit?usp=sharing). [Introdução a funções em linguagem Haskell]((https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing)). </td>
+<td>
+[Introdução à programação programação funcional](https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/edit?usp=sharing).
+[Introdução a funções em linguagem Haskell]((https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing)). </td>
 </tr>
 <tr>
 <td align="right">3</td>
