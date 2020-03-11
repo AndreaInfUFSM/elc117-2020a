@@ -257,8 +257,8 @@ Sala: 368, CT - Práticas: 334, CT
  - Primeiro bimestre  
    - Trabalho Haskell (20%)  
    - Trabalho Prolog (20%)  
-   - Trabalho tema flexível (20%) - 29/04  
-   - Prova (40%) - 27/04  
+   - Prova (40%) - 29/04  
+   - Trabalho tema flexível (20%) - 04/05  
  - Segundo bimestre  
    - Trabalho parte 1 (35%)  
    - Trabalho parte 2 (35%)  
