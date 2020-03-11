@@ -29,7 +29,8 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">1</td>
 <td>09/03/2020</td>
 <td>Seg</td>
-<td>Apresentação do programa da disciplina e do plano de ensino. <a href="https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing">Introdução à disciplina</a>.
+<td>Apresentação do programa da disciplina e do plano de ensino. <br>
+ <a href="https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing">Introdução à disciplina</a>.
  </td>
 </tr>
 <tr>
@@ -44,77 +45,83 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">3</td>
 <td>16/03/2020</td>
 <td>Seg</td>
+ <td>Sem aula. Evento <a href="https://www.ufsm.br/unidades-universitarias/ct/eventos/aula-inaugural-mulheres-na-tecnologia/">Mulheres na Tecnologia</a></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td>18/03/2020</td>
+<td>Seg</td>
 <td>Programação funcional: funções de alta ordem e funções anônimas em Haskell (prática).</td>
 </tr>
 <tr>
 <td align="right">4</td>
-<td>18/03/2020</td>
+<td>23/03/2020</td>
 <td>Qua</td>
 <td>Programação funcional: geração de listas e list comprehension.</td>
 </tr>
 <tr>
 <td align="right">5</td>
-<td>23/03/2020</td>
+<td>25/03/2020</td>
 <td>Seg</td>
 <td>Programação funcional: geração de listas e list comprehension (prática).</td>
 </tr>
 <tr>
 <td align="right">6</td>
-<td>25/03/2020</td>
+<td>30/03/2020</td>
 <td>Qua</td>
 <td>Programação funcional: uso de let..in, where e I/O.</td>
 </tr>
 <tr>
 <td align="right">7</td>
-<td>30/03/2020</td>
+<td>01/04/2020</td>
 <td>Seg</td>
 <td>Programação funcional: condicionais e recursividade (prática).</td>
 </tr>
 <tr>
 <td align="right">8</td>
-<td>01/04/2020</td>
+<td>06/04/2020</td>
 <td>Qua</td>
 <td>Programação lógica.</td>
 </tr>
 <tr>
 <td align="right">9</td>
-<td>06/04/2020</td>
+<td>08/04/2020</td>
 <td>Seg</td>
 <td>Programação lógica: predicados em Prolog (prática).</td>
 </tr>
 <tr>
 <td align="right">10</td>
-<td>08/04/2020</td>
+<td>13/04/2020</td>
 <td>Qua</td>
 <td>Programação lógica: listas e recursão em Prolog.</td>
 </tr>
 <tr>
 <td align="right">11</td>
-<td>13/04/2020</td>
+<td>15/04/2020</td>
 <td>Seg</td>
 <td>Programação lógica: listas e recursão em Prolog.(prática).</td>
 </tr>
 <tr>
 <td align="right">12</td>
-<td>15/04/2020</td>
+<td>20/04/2020</td>
 <td>Qua</td>
 <td>Escola Regional de Alto Desempenho</td>
 </tr>
 <tr>
 <td align="right">13</td>
-<td>20/04/2020</td>
+<td>22/04/2020</td>
 <td>Seg</td>
 <td>Dia não letivo, conforme calendário acadêmico 2020.</td>
 </tr>
 <tr>
 <td align="right">14</td>
-<td>22/04/2020</td>
+<td>27/04/2020</td>
 <td>Qua</td>
 <td>Programação lógica: controle da execução de programas em Prolog.</td>
 </tr>
 <tr>
 <td align="right">15</td>
-<td>27/04/2020</td>
+<td>29/04/2020</td>
 <td>Seg</td>
 <td>Prova primeiro bimestre.</td>
 </tr>
