@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2020a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Slides](#slides) | [Trabalhos](#trabalhos) | [Práticas](#práticas) | [Quizzes](#quizzes)
+[Sobre a disciplina](#sobre-a-disciplina) | [Planejamento](#planejamento) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) | [Quizzes](#quizzes)
 
 
 Primeiro semestre de 2020  
@@ -29,13 +29,13 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">1</td>
 <td>09/03/2020</td>
 <td>Seg</td>
-<td>Apresentação do programa da disciplina e do plano de ensino. Visão geral dos paradigmas de programação. </td>
+<td>Apresentação do programa da disciplina e do plano de ensino. Visão geral dos paradigmas de programação. Slides: [Introdução à disciplina](https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing)</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td>11/03/2020</td>
 <td>Qua</td>
-<td>Fundamentos de linguagens de programação funcional.Introdução a funções em linguagem Haskell.</td>
+<td>[Introdução à programação programação funcional](https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/edit?usp=sharing). [Introdução a funções em linguagem Haskell]((https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing)). </td>
 </tr>
 <tr>
 <td align="right">3</td>
@@ -261,6 +261,13 @@ Sala: 368, CT - Práticas: 334, CT
    - Trabalho parte 2 (35%)  
    - Prova (30%) - 29/06  
  - Avaliação final (exame): 13/07/2020  
+
+
+## Bibliografia
+
+ - Robert Sebesta. Conceitos de Linguagens de Programação. Bookman, 2018. Disponível no [Portal de E-books](https://www.ufsm.br/orgaos-suplementares/biblioteca/e-books-2/) da UFSM.
+ - Miran Lipovača. [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+ - Outros materiais de referência indicados ao final de cada grupo de slides.
 
 
 ## Quizzes
