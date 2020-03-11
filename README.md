@@ -127,108 +127,101 @@ Sala: 368, CT - Práticas: 334, CT
 </tr>
 <tr>
 <td align="right">17</td>
-<td>29/04/2020</td>
-<td>Qua</td>
+<td>04/05/2020</td>
+<td>Seg</td>
 <td>Correção da prova. Apresentações de trabalho do primeiro bimestre.</td>
 </tr>
 <tr>
 <td align="right">18</td>
-<td>04/05/2020</td>
-<td>Seg</td>
-<td>Programação orientada a objetos.</td>
-</tr>
-<tr>
-<td align="right">19</td>
 <td>06/05/2020</td>
 <td>Qua</td>
 <td>Programação orientada a objetos.</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">19</td>
 <td>11/05/2020</td>
 <td>Seg</td>
+<td>Programação orientada a objetos.</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td>13/05/2020</td>
+<td>Qua</td>
 <td>Programação orientada a objetos (prática).</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td>13/05/2020</td>
-<td>Qua</td>
+<td>18/05/2020</td>
+<td>Seg</td>
 <td>Programação orientada a objetos.</td>
 </tr>
 <tr>
 <td align="right">22</td>
-<td>18/05/2020</td>
-<td>Seg</td>
+<td>20/05/2020</td>
+<td>Qua</td>
 <td>Programação orientada a objetos  (prática).</td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td>20/05/2020</td>
-<td>Qua</td>
+<td>25/05/2020</td>
+<td>Seg</td>
 <td>Programação orientada a objetos.</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td>25/05/2020</td>
-<td>Seg</td>
+<td>27/05/2020</td>
+<td>Qua</td>
 <td>Programação orientada a objetos  (prática).</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td>27/05/2020</td>
-<td>Qua</td>
+<td>01/06/2020</td>
+<td>Seg</td>
 <td>Programação orientada a objetos.</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td>01/06/2020</td>
-<td>Seg</td>
+<td>03/06/2020</td>
+<td>Qua</td>
 <td>Programação orientada a objetos  (prática).</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td>03/06/2020</td>
-<td>Qua</td>
+<td>08/06/2020</td>
+<td>Seg</td>
 <td>Programação orientada a objetos.</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td>08/06/2020</td>
-<td>Seg</td>
+<td>10/06/2020</td>
+<td>Qua</td>
 <td>Programação orientada a objetos  (prática).</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td>10/06/2020</td>
-<td>Qua</td>
+<td>15/06/2020</td>
+<td>Seg</td>
 <td>Programação concorrente.</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td>15/06/2020</td>
-<td>Seg</td>
+<td>17/06/2020</td>
+<td>Qua</td>
 <td>Programação concorrente  (prática).</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td>17/06/2020</td>
-<td>Qua</td>
+<td>22/06/2020</td>
+<td>Seg</td>
 <td>Programação concorrente.</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td>22/06/2020</td>
-<td>Seg</td>
+<td>24/06/2020</td>
+<td>qua</td>
 <td>Programação concorrente  (prática).</td>
 </tr>
-<tr>
 <td align="right">33</td>
-<td>24/06/2020</td>
-<td>Qua</td>
-<td> </td>
-</tr>
-<tr>
-<td align="right">34</td>
 <td>29/06/2020</td>
 <td>Seg</td>
 <td>Prova segundo bimestre.</td>
