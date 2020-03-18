@@ -51,7 +51,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">4</td>
 <td>18/03/2020</td>
 <td>Qua</td>
-<td>Programação funcional: definição de funções e uso de funções de alta ordem [prática](praticas/funcional/haskell01).</td>
+ <td>Programação funcional: definição de funções e uso de funções de alta ordem (<a href="praticas/funcional/haskell01">prática</a>).</td>
 </tr>
 <tr>
 <td align="right">5</td>
