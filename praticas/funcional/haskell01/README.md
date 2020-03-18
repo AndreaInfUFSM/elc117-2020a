@@ -133,12 +133,12 @@ Nos exercícios abaixo, você vai definir funções tipadas. Para saber mais sob
 10. Crie uma função `hasEqHeads :: [Int] -> [Int] -> Bool` que verifique se 2 listas possuem o mesmo primeiro elemento. Use a função `head` e o operador lógico `==` para verificar igualdade.
 
 11. A função pré-definida `elem` recebe um elemento e uma lista, e verifica se o elemento está presente ou não na lista. Teste essa função no interpretador: 
-   ```haskell
-   elem 3 [1,2,3]
-   elem 4 [1,2,3]
-   elem 'c' "abcd"
-   elem 'A' "abcd"
-   ```
+    ```haskell
+    elem 3 [1,2,3]
+    elem 4 [1,2,3]
+    elem 'c' "abcd"
+    elem 'A' "abcd"
+    ```
 12. Use a função `elem` para criar uma função `isVowel2 :: Char -> Bool` que verifique se um caracter é uma vogal, tanto maiúscula como minúscula.
 
 
