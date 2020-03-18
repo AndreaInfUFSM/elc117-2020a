@@ -4,14 +4,15 @@ Slides
 - [Introdução à disciplina](https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1h3FJcDFKrenAffH-bxXiruFHRpJ6nN_bryPtIglED_E/export/pdf)
 - Paradigma funcional
    - [Introdução à programação funcional](https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1wwj_3uXETj7-f8l_tYIeo6LSrCN5YTa8LMjtpesItNg/export/pdf)
-   - [Funções em Haskell](https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/export/pdf)
-<!-- 
-  - [Funções de alta ordem em Haskell](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/export/pdf)
+   - [Funções em Haskell: visão geral](https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1BG4PRmcPgDzgHxNkklyuljVdb6SfKPSUUqSgcFM3Bm8/export/pdf)
+   - [Funções em Haskell: funções tipadas](https://docs.google.com/presentation/d/1y-4QgUU2PrwF-OnersZDP2B4qCQAz14kCMJ3SrU7rKo/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1y-4QgUU2PrwF-OnersZDP2B4qCQAz14kCMJ3SrU7rKo/export/pdf)
+   - [Funções de alta ordem em Haskell](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/export/pdf)
    - [Funções anônimas em Haskell](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/export/pdf)
+   
+<!--
    - [Geração de listas em Haskell](https://docs.google.com/presentation/d/14AVjYb2PCF93LEosxo8JMGep_oqVmRshU9Dzc2CvvBQ/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/14AVjYb2PCF93LEosxo8JMGep_oqVmRshU9Dzc2CvvBQ/export/pdf)
    - [Uso de let, where e I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/export/pdf)
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/export/pdf)
-
 
 
 - Paradigma lógico
