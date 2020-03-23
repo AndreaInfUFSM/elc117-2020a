@@ -42,7 +42,7 @@ Se você instalar a plataforma Haskell no **Windows**, abra o WinGhci, que é um
 ## 2. Funções de alta ordem e funções anônimas (lambda)
 
 
-Nesta aula, vamos trabalhar com [funções de alta ordem](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) e [funções anônimas](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/edit?usp=sharing), também conhecidas como funções lambda.
+Nesta aula, vamos trabalhar com [funções de alta ordem](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) e [funções anônimas](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y//edit?usp=sharing), também conhecidas como funções lambda.
 
 
 1. Copie as funções abaixo para um arquivo de programa Haskell (.hs) ou abra [este programa no Repl.it](https://repl.it/@AndreaSchwertne/haskell02). 
