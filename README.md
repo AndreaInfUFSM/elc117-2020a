@@ -57,7 +57,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">5</td>
 <td>23/03/2020</td>
 <td>Seg</td>
-<td>Programação funcional: geração de listas e list comprehension.</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell02">prática com funções de alta ordem e funções lambda.</a></td>
 </tr>
 <tr>
 <td align="right">6</td>
