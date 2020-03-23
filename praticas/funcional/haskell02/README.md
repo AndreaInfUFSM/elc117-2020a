@@ -84,7 +84,7 @@ Nesta aula, vamos trabalhar com [funções de alta ordem](https://docs.google.co
 ## 3. Programação
 
 
-1. Infectologistas consideram que um indivíduo tem febre quando sua [temperatura corpórea está acima de 37,8oC](https://drauziovarella.uol.com.br/doencas-e-sintomas/febre/). Escreva uma função `verificaFebre :: [Int] -> [Int]` que, dada uma lista de temperaturas de indivíduos, selecione aquelas que representam febre. Resolva esta questão definindo uma função auxiliar que verifica se uma dada temperatura é febre ou não.
+1. Infectologistas consideram que um indivíduo tem febre quando sua [temperatura corpórea está acima de 37,8oC](https://drauziovarella.uol.com.br/doencas-e-sintomas/febre/). Escreva uma função `verificaFebre :: [Float] -> [Float]` que, dada uma lista de temperaturas de indivíduos, selecione aquelas que representam febre. Resolva esta questão definindo uma função auxiliar que verifica se uma dada temperatura é febre ou não.
 
 2. Resolva a questão anterior sem definir uma função auxiliar.
 
