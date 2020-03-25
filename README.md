@@ -280,8 +280,8 @@ Sala: 368, CT - Práticas: 334, CT
 
 ## Quizzes
 
- - Testes (quizzes) de Prolog com correção automática: [(1)](https://testmoz.com/466816) [(2)](https://testmoz.com/466920)
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+ - Testes (quizzes) de Prolog com correção automática: [(1)](https://testmoz.com/466816) [(2)](https://testmoz.com/466920)
  - Testes (quizzes) de Java com correção automática: [(1)](https://testmoz.com/2090367) [(2)](https://testmoz.com/2132271)
  
 
