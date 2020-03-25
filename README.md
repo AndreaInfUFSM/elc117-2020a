@@ -19,6 +19,9 @@ Sala: 368, CT - Práticas: 334, CT
 ## Planejamento
 
 
+**ATENÇÃO**: Devido à pandemia do Covid-19, a UFSM está com [atividades presenciais suspensas](https://www.ufsm.br/2020/03/24/ufsm-informa-sobre-a-continuidade-do-semestre-letivo-durante-a-suspensao-de-atividades-presenciais/). Devido a isso, o planejamento abaixo pode mudar a qualquer momento, mas as datas continuam sendo uma referência para a disciplina. Para datas que já passaram, veja a atividade na linha correspondente. Para datas no futuro, bem... tudo pode mudar... ou não :-D
+
+
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Aula</th>
 <th title="Field #2">Data</th>
@@ -63,7 +66,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">6</td>
 <td>25/03/2020</td>
 <td>Qua</td>
-<td>Programação funcional: geração de listas e list comprehension (prática).</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell03">prática com funções em geral, especialmente funções de alta ordem e funções lambda.</td>
 </tr>
 <tr>
 <td align="right">7</td>
