@@ -8,6 +8,7 @@ Slides
    - [Funções em Haskell: funções tipadas](https://docs.google.com/presentation/d/1y-4QgUU2PrwF-OnersZDP2B4qCQAz14kCMJ3SrU7rKo/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1y-4QgUU2PrwF-OnersZDP2B4qCQAz14kCMJ3SrU7rKo/export/pdf)
    - [Funções de alta ordem em Haskell](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/export/pdf)
    - [Funções anônimas em Haskell](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/export/pdf)
+   - [Tuplas em Haskell](https://docs.google.com/presentation/d/1sMyFIaHF9p8DwcVPaYgReZBb-uUTpZaYiTtvVWdm5Kw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1sMyFIaHF9p8DwcVPaYgReZBb-uUTpZaYiTtvVWdm5Kw/export/pdf)
    
 <!--
    - [Geração de listas em Haskell](https://docs.google.com/presentation/d/14AVjYb2PCF93LEosxo8JMGep_oqVmRshU9Dzc2CvvBQ/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/14AVjYb2PCF93LEosxo8JMGep_oqVmRshU9Dzc2CvvBQ/export/pdf)

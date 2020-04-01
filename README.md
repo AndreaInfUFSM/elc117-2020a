@@ -72,13 +72,13 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">7</td>
 <td>30/03/2020</td>
 <td>Seg</td>
-<td>Programação funcional: uso de let..in, where e I/O.</td>
+<td>Programação funcional: <a href="https://forms.gle/Uq6XmgJJ6HFNsfdC9">questionário</a> sobre os conteúdos vistos até esta data.</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td>01/04/2020</td>
 <td>Qua</td>
-<td>Programação funcional: condicionais e recursividade (prática).</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell03">prática sobre tuplas e listas</a>.</td>
 </tr>
 <tr>
 <td align="right">9</td>
