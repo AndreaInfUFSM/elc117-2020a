@@ -78,7 +78,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">8</td>
 <td>01/04/2020</td>
 <td>Qua</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell03">prática sobre tuplas e listas</a>.</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell04">prática sobre tuplas e listas</a>.</td>
 </tr>
 <tr>
 <td align="right">9</td>
