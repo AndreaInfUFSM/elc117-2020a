@@ -150,15 +150,8 @@ between1and100Aux n =
 
 -- 9. Crie uma função que receba uma string e retorne o número de espaços nela contidos.
 howMuchSpaces :: String -> Int
-howMuchSpaces str =
-    howMuchSpacesAux str 0
-
-howMuchSpacesAux :: String -> Int -> Int
-howMuchSpacesAux str n =
-    if str == "" then n
-    else 
-        if ( isSpace ( last str ) ) then ( howMuchSpacesAux ( take ( length str - 1 ) str ) n + 1) 
-        else ( howMuchSpacesAux ( take ( length str - 1 ) str ) n ) 
+howMuchSpaces str = 
+    length ( filter (==' ') str )
 
 isSpace :: Char -> Bool
 isSpace c =
@@ -176,5 +169,5 @@ isYoung n =
 -- 11. Neste exercício, você vai criar uma função equivalente a elem, mas usando uma função de alta ordem. 
 -- Crie a função charFound :: Char -> String -> Bool que verifique se o caracter (primeiro argumento) está contido na string (segundo argumento)
 charFound :: Char -> String -> Bool
-charFound c str =
-    if str == "" then False else ( if ( last str == 'c' ) then True else charFound c ( take ( length str - 1 ) str ) )
+charFound c str = 
+    length ( filter (== c) str ) > 0
