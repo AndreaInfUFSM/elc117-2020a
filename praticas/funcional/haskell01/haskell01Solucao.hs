@@ -92,7 +92,6 @@ hasEqHeads lis1 lis2 =
     False
 -}
 
-
 -- 12. Use a função elem para criar uma função isVowel2 :: Char -> Bool que verifique se um caracter é uma vogal, tanto maiúscula como minúscula.
 isVowel2 :: Char -> Bool
 isVowel2 c =
