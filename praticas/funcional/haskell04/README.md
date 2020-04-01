@@ -42,5 +42,5 @@
 
 4. Resolva o exercício anterior usando uma função anônima que substitua a função `selectName`.
 
-
+**Aguarde mais exercícios nesta lista!**
 
