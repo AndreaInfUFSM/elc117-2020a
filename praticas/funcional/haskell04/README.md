@@ -57,8 +57,7 @@
    Obs.: Quando for colocar aspas dentro de uma String, use uma barra invertida antes (\") para evitar que a aspa seja interpretada como fim da String.
    
    
-
-7. Suponha que uma tupla `(Float, Float, Float, Float)` represente um retângulo `(x,y,w,h)` com vértice superior esquerdo posicionado no ponto `x,y` e com largura e altura dados por `w` e `h`. Considerando isso, crie uma função que receba uma lista de retângulos e retorne outra lista com a área de cada um.
+7. Suponha que uma tupla `(Float, Float, Float, Float)` represente um retângulo `(x,y,w,h)` com vértice superior esquerdo posicionado no ponto `x,y` e com largura e altura dados por `w` e `h`. Considerando isso, crie uma função que receba uma lista de retângulos e retorne outra lista com a área de cada um. Use uma função auxiliar (com nome) para calcular a área de um retângulo.
 
 8. Resolva o exercício anterior usando uma função lambda.
 
