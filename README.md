@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2020a
-[Sobre a disciplina](#sobre-a-disciplina) | [Planejamento](#planejamento) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) | [Quizzes](#quizzes)
+[Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#aulas) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) | [Quizzes](#quizzes)
 
 
 Primeiro semestre de 2020  
@@ -15,7 +15,7 @@ Sala: 368, CT - Práticas: 334, CT
  - [Que comecem os jogos!](https://docs.google.com/forms/d/e/1FAIpQLSezBHYhYEVbOz-QTuPLERAVOA-5zjAPfrzCtPqyuNY6s6d3VQ/viewform): formulário para responder logo depois da primeira aula.
 -->
  
-## Planejamento
+## Aulas
 
 
 **ATENÇÃO**: Devido à pandemia do Covid-19, a UFSM está com [atividades presenciais suspensas](https://www.ufsm.br/2020/03/24/ufsm-informa-sobre-a-continuidade-do-semestre-letivo-durante-a-suspensao-de-atividades-presenciais/). Devido a isso, o planejamento inicial foi alterado e estamos usando um servidor no Discord para interagir por áudio e chat. Os dias e horários de aula continuam sendo uma referência para a disciplina, sendo que as atividades de cada aula estão registradas na tabela abaixo. Cada nova aula é planejada em função do progresso da turma observado no Discord.
