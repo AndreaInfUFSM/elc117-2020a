@@ -19,6 +19,8 @@ Sala: 368, CT - Práticas: 334, CT
 
 
 **ATENÇÃO**: Devido à pandemia do Covid-19, a UFSM está com [atividades presenciais suspensas](https://www.ufsm.br/2020/03/24/ufsm-informa-sobre-a-continuidade-do-semestre-letivo-durante-a-suspensao-de-atividades-presenciais/). Devido a isso, o planejamento inicial foi alterado e estamos usando um servidor no Discord para interagir por áudio e chat. Os dias e horários de aula continuam sendo uma referência para a disciplina, sendo que as atividades de cada aula estão registradas na tabela abaixo. Cada nova aula é planejada em função do progresso da turma observado no Discord.
+
+
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Aula</th>
 <th title="Field #2">Data</th>
@@ -83,6 +85,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Seg</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell05">prática com programas mais longos (let/where,I/O)</a> Exemplos:validação de CPF e geração de SVG usando programação funcional.</a></td>
 </tr>
+</tbody></table>
 
 <!--
 <tr>
