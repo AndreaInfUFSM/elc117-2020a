@@ -9,10 +9,9 @@ Slides
    - [Funções de alta ordem em Haskell](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1UKi2vkIMiNdScn_m7CidoSBzZ9b4j1ppCSPKYYFjxIk/export/pdf)
    - [Funções anônimas em Haskell](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1zxqEsvCegZhxfwjjxElIkNjY-pqmLvpEnq9Mt0YBR9Y/export/pdf)
    - [Tuplas em Haskell](https://docs.google.com/presentation/d/1sMyFIaHF9p8DwcVPaYgReZBb-uUTpZaYiTtvVWdm5Kw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1sMyFIaHF9p8DwcVPaYgReZBb-uUTpZaYiTtvVWdm5Kw/export/pdf)
-   
+   - [Uso de let, where e I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/1X3hITYqBAuAtXhNdvEOFpknYbjRZsGg80c5-ITXar_Y/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1X3hITYqBAuAtXhNdvEOFpknYbjRZsGg80c5-ITXar_Y/export/pdf)   
 <!--
    - [Geração de listas em Haskell](https://docs.google.com/presentation/d/14AVjYb2PCF93LEosxo8JMGep_oqVmRshU9Dzc2CvvBQ/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/14AVjYb2PCF93LEosxo8JMGep_oqVmRshU9Dzc2CvvBQ/export/pdf)
-   - [Uso de let, where e I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1qSTpBu_DrdSljdTteYwq5oDGkygq4SkrSV2_zOC-tbw/export/pdf)
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/export/pdf)
 
 
