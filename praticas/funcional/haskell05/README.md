@@ -51,7 +51,7 @@
 
 ## Geração de SVG
 
-Nesta parte, vamos usar um programa em Haskell que gera uma imagem em [formato SVG](https://www.w3schools.com/graphics/svg_intro.asp) (//Scalable Vector Graphics//).  Esse formato de desenho vetorial usa comandos textuais (tags XML) para representar elementos gráficos. Programas que entendem SVG interpretam essas tags e mostram a imagem correspondente. O programa que usaremos gera uma imagem com retângulos coloridos.
+Nesta parte, vamos usar um programa em Haskell que gera uma imagem em [formato SVG](https://www.w3schools.com/graphics/svg_intro.asp) (*Scalable Vector Graphics*).  Esse formato de desenho vetorial usa comandos textuais (tags XML) para representar elementos gráficos. Programas que entendem SVG interpretam essas tags e mostram a imagem correspondente. O programa que usaremos gera uma imagem com retângulos coloridos.
 
 1. Baixe o programa [svgRects.hs](svgRects.hs) e execute-o chamando a função `main`. Isso deverá gerar um arquivo chamado `rects.svg`. Visualize esse arquivo usando o navegador ou outro programa que entenda SVG.
 
