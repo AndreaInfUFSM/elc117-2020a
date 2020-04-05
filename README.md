@@ -12,14 +12,13 @@ Sala: 368, CT - Práticas: 334, CT
  - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
  <!--
  - [Planejamento](https://docs.google.com/spreadsheets/d/1SAG5XDup7IAMEttgnsr3c_gx9kSYLDo4X-sBcCHJ8_o/edit?usp=sharing): planejamento de atividades de cada aula.
-
  - [Que comecem os jogos!](https://docs.google.com/forms/d/e/1FAIpQLSezBHYhYEVbOz-QTuPLERAVOA-5zjAPfrzCtPqyuNY6s6d3VQ/viewform): formulário para responder logo depois da primeira aula.
 -->
  
 ## Planejamento
 
 
-**ATENÇÃO**: Devido à pandemia do Covid-19, a UFSM está com [atividades presenciais suspensas](https://www.ufsm.br/2020/03/24/ufsm-informa-sobre-a-continuidade-do-semestre-letivo-durante-a-suspensao-de-atividades-presenciais/). Devido a isso, o planejamento abaixo pode mudar a qualquer momento, mas as datas continuam sendo uma referência para a disciplina. Para datas que já passaram, veja a atividade na linha correspondente. Para datas no futuro, bem... tudo pode mudar... ou não :-D
+**ATENÇÃO**: Devido à pandemia do Covid-19, a UFSM está com [atividades presenciais suspensas](https://www.ufsm.br/2020/03/24/ufsm-informa-sobre-a-continuidade-do-semestre-letivo-durante-a-suspensao-de-atividades-presenciais/). Devido a isso, o planejamento inicial foi alterado e estamos usando um servidor no Discord para interagir por áudio e chat. Os dias e horários de aula continuam sendo uma referência para a disciplina, sendo que as atividades de cada aula estão registradas na tabela abaixo. Cada nova aula é planejada em função do progresso da turma observado no Discord.
 
 
 <table class="table table-bordered table-hover table-condensed">
@@ -84,8 +83,10 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">9</td>
 <td>06/04/2020</td>
 <td>Seg</td>
-<td>Programação lógica.</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell05">prática com programas mais longos (let/where,I/O)</a> Exemplos:validação de CPF e geração de SVG usando programação funcional.</a></td>
 </tr>
+
+<!--
 <tr>
 <td align="right">10</td>
 <td>08/04/2020</td>
@@ -254,6 +255,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Avaliação Final (Exame)</td>
 </tr>
 </tbody></table>
+-->
 
 ## Avaliações
 
@@ -262,13 +264,13 @@ Sala: 368, CT - Práticas: 334, CT
  - Primeiro bimestre  
    - Trabalho Haskell (20%)  
    - Trabalho Prolog (20%)  
-   - Prova (40%) - 29/04  
-   - Trabalho tema flexível (20%) - 04/05  
+   - Prova (40%) - ~~29/04  
+   - Trabalho tema flexível (20%) - ~~04/05  
  - Segundo bimestre  
    - Trabalho parte 1 (35%)  
    - Trabalho parte 2 (35%)  
-   - Prova (30%) - 29/06  
- - Avaliação final (exame): 13/07/2020  
+   - Prova (30%) - ~~29/06  
+ - Avaliação final (exame): ~~13/07/2020  
 
 
 ## Bibliografia
