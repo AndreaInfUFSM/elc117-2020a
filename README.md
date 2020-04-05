@@ -257,8 +257,6 @@ Sala: 368, CT - Práticas: 334, CT
 
 ## Avaliações
 
-**Atenção**: as datas de avaliações muito provavelmente serão alteradas.
-
  - Primeiro bimestre  
    - Trabalho Haskell (20%)  
    - Trabalho Prolog (20%)  
