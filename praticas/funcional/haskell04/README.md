@@ -66,7 +66,7 @@
 10. Ainda no módulo Data.List, há uma função chamada [sortBy](http://zvon.org/other/haskell/Outputlist/sortBy_f.html), que é mais genérica que sort pois recebe como argumento uma função de comparação. Forneça dois exemplos de uso de sortBy para uma lista de strings, usando diferentes funções de comparação.
 
 
-11. A função [zip](http://zvon.org/other/haskell/Outputprelude/zip_f.html) recebe duas listas e cria uma lista de tuplas, combinando cada par de elementos na mesma posição nas listas. Escreva uma função `testZip :: [Int] -> [Int]` que aplique `zip` e depois obtenha somente as tuplas cuja soma de seus elementos seja menor que 10.
+11. A função [zip](http://zvon.org/other/haskell/Outputprelude/zip_f.html) recebe duas listas e cria uma lista de tuplas, combinando cada par de elementos na mesma posição nas listas. Escreva uma função `testZip :: [Int] -> [Int] -> [(Int,Int)]` que aplique `zip` e depois obtenha somente as tuplas cuja soma de seus elementos seja menor que 10.
 
 
 
