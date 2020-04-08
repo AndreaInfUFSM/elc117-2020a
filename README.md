@@ -85,6 +85,12 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Seg</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell05">prática com programas mais longos (let/where,I/O)</a> Exemplos:validação de CPF e geração de SVG usando programação funcional.</a></td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td>08/04/2020</td>
+<td>Qua</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell06">prática com geração de listas e list comprehension</a></td>
+</tr>
 </tbody></table>
 
 <!--
