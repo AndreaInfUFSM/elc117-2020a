@@ -77,22 +77,4 @@
     Obs.: Use conversão explícita de tipos quando misturar Int e Float.
    
    
-15. Em Haskell, a função `zipWith` é uma função de alta ordem que aplica uma função a pares de elementos de duas listas. Pesquise sobre a função `zipWith` e utilize-a para definir uma função `dotProd'`, que produza o mesmo resultado da função `dotProd` do exercício 13.
-
-## Geração de SVG
-
-Nesta parte, vamos usar um programa em Haskell que gera uma imagem em [formato SVG](https://www.w3schools.com/graphics/svg_intro.asp) (*Scalable Vector Graphics*).  Esse formato de desenho vetorial usa comandos textuais (tags XML) para representar elementos gráficos. Programas que entendem SVG interpretam essas tags e mostram a imagem correspondente. O programa que usaremos gera uma imagem com retângulos coloridos.
-
-1. Baixe o programa [svgRects.hs](svgRects.hs) e execute-o chamando a função `main`. Isso deverá gerar um arquivo chamado `rects.svg`. Visualize esse arquivo usando o navegador ou outro programa que entenda SVG.
-
-2. Abra o código e procure entendê-lo. Onde são definidas as coordenadas dos retângulos? Altere algumas coordenadas e gere a imagem novamente.
-
-3. Onde são definidas as cores dos retângulos? Altere algumas cores e gere a imagem novamente.
-
-4. Note que as listas de retângulos e cores estão "hard-coded" e isso não é uma boa prática. Em especial, seria inviável fazer isso para listas muito grandes. A solução para isso é gerar listas programaticamente, criando funções para isso! Explore esta abordagem criando outras listas de retângulos e cores, aplicando operações sobre as listas originais. Por exemplo: você pode gerar novos retângulos somando uma constante sobre as coordenadas dos retângulos originais, ou criar novas cores trocando os valores de (r,g,b). Essas novas listas podem ser concatenadas, replicadas, filtradas, etc. 
-
-
- 
-
-
 
