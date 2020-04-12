@@ -96,7 +96,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">10</td>
 <td>13/04/2020</td>
 <td>Qua</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell06">prática com recursão, construção de listas e pattern matching</a></td>
+<td>Programação funcional: <a href="praticas/funcional/haskell07">prática com recursão, construção de listas e pattern matching</a></td>
 </tr>
 <!--
 <tr>
