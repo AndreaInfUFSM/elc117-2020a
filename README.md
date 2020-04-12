@@ -92,14 +92,13 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Programação funcional: <a href="praticas/funcional/haskell06">prática com geração de listas e list comprehension</a></td>
 </tr>
 </tbody></table>
-
-<!--
 <tr>
 <td align="right">10</td>
-<td>08/04/2020</td>
+<td>13/04/2020</td>
 <td>Qua</td>
-<td>Programação lógica: predicados em Prolog (prática).</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell06">prática com recursão, construção de listas e pattern matching</a></td>
 </tr>
+<!--
 <tr>
 <td align="right">11</td>
 <td>13/04/2020</td>
