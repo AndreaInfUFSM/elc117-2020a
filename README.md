@@ -91,7 +91,6 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Qua</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell06">prática com geração de listas e list comprehension</a></td>
 </tr>
-</tbody></table>
 <tr>
 <td align="right">10</td>
 <td>13/04/2020</td>
@@ -262,6 +261,8 @@ Sala: 368, CT - Práticas: 334, CT
 </tr>
 </tbody></table>
 -->
+</tbody></table>
+
 
 ## Avaliações
 
