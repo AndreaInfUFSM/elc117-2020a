@@ -103,5 +103,8 @@
    ```
 
 
+## Uma atividade diferente para finalizar
+
+Quando você terminar esses exercícios, vá para o servidor Discord da disciplina e veja o canal \#curiosidades. Lá estão alguns links interessantes sobre Haskell. Para termos mais informações nesse canal, sua tarefa vai ser adicionar alguma curiosidade relacionada a programação funcional (Haskell ou qualquer outra linguagem que suporte este paradigma). Pode ser um link para site, vídeo, etc. que você tenha achado útil/interessante, ou pode ser uma observação sua mesmo.
 
 
