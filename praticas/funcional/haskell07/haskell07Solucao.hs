@@ -1,0 +1,2 @@
+-- Escreva uma função ends :: [Int] -> [Int] que receba uma lista e retorne outra lista contendo o primeiro e o último elementos da primeira lista. 
+-- Crie 2 versões dessa função: uma usando o operador de construção de lista (:) e outra usando apenas a notação de lista entre colchetes.
