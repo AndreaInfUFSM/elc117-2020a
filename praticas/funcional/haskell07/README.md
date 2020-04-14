@@ -87,7 +87,7 @@
 
    ```
    > translate [(0.1,0.2),(1.1,6.0),(2.0,3.1)]
-   [(2.1,2.2),(2.1,8.0),(4.0,5.1)]
+   [(2.1,2.2),(3.1,8.0),(4.0,5.1)]
    ```
 
 4. Defina uma função recursiva que receba uma lista de palavras e retorne a quantidade dessas palavras que tenham mais de 5 caracteres. Exemplo de uso:
