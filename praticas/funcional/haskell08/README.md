@@ -1,4 +1,4 @@
-# Prática: Prática de programação funcional e entrega no GitHub Classroom
+# Prática de programação funcional com entrega no GitHub Classroom
 
 
 ## Orientações
