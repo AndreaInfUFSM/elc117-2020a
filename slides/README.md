@@ -11,6 +11,7 @@ Slides
    - [Tuplas em Haskell](https://docs.google.com/presentation/d/1sMyFIaHF9p8DwcVPaYgReZBb-uUTpZaYiTtvVWdm5Kw/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1sMyFIaHF9p8DwcVPaYgReZBb-uUTpZaYiTtvVWdm5Kw/export/pdf)
    - [Uso de let, where e I/O: validação de CPF em Haskell](https://docs.google.com/presentation/d/1X3hITYqBAuAtXhNdvEOFpknYbjRZsGg80c5-ITXar_Y/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1X3hITYqBAuAtXhNdvEOFpknYbjRZsGg80c5-ITXar_Y/export/pdf)   
    - [Geração de listas em Haskell](https://docs.google.com/presentation/d/1TMixYL165fAWWSdmBSz15Bv6rwBG8BpaCMktSRxiypc/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1TMixYL165fAWWSdmBSz15Bv6rwBG8BpaCMktSRxiypc/export/pdf)
+   - [Recursão, construção de listas e pattern matching](https://docs.google.com/presentation/d/1CgQfX9IMbhj8Qmy7sUsxAmtXdxFqe47puFElN7JDobo/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1CgQfX9IMbhj8Qmy7sUsxAmtXdxFqe47puFElN7JDobo/export/pdf)
 <!--
 
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/export/pdf)
