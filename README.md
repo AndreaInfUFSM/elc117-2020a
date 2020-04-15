@@ -83,19 +83,25 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">9</td>
 <td>06/04/2020</td>
 <td>Seg</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell05">prática com programas mais longos (let/where,I/O)</a> Exemplos: validação de CPF e geração de SVG usando programação funcional.</a></td>
+<td>Programação funcional: <a href="praticas/funcional/haskell05">prática com programas mais longos (let/where,I/O)</a>. Exemplos: validação de CPF e geração de SVG usando programação funcional.</a></td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td>08/04/2020</td>
 <td>Qua</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell06">prática com geração de listas e list comprehension</a></td>
+<td>Programação funcional: <a href="praticas/funcional/haskell06">prática com geração de listas e list comprehension.</a></td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td>13/04/2020</td>
 <td>Seg</td>
-<td>Programação funcional: <a href="praticas/funcional/haskell07">prática com recursão, construção de listas e pattern matching</a></td>
+<td>Programação funcional: <a href="praticas/funcional/haskell07">prática com recursão, construção de listas e pattern matching.</a></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td>15/04/2020</td>
+<td>Qua</td>
+<td>Programação funcional: <a href="praticas/funcional/haskell08">prática de programação funcional com entrega no GitHub Classroom.</a></td>
 </tr>
 <!--
 <tr>
