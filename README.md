@@ -103,6 +103,12 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Qua</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell08">prática de programação funcional com entrega no GitHub Classroom.</a></td>
 </tr>
+<tr>
+<td align="right">13</td>
+<td>20/04/2020</td>
+<td>Seg</td>
+<td>Programação funcional: resolução/correção dos exercícios <a href="praticas/funcional/haskell08">haskell08</a> e visão geral do <a href="trabalhos/t1">trabalho de Haskell (t1) </a>.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>
