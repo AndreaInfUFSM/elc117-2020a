@@ -51,7 +51,7 @@ Você deverá atualizar o repositório sempre que incrementar o trabalho. Ou sej
 
 ## Material de apoio
 
-- Todos os slides sobre programação funcional em Haskell.
+- Todos os [slides sobre programação funcional](../../slides) em Haskell.
 
 - [Tutorial SVG](https://www.w3schools.com/graphics/svg_intro.asp)  
   Tutorial SVG no W3Schools
