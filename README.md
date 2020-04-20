@@ -98,7 +98,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Programação funcional: <a href="praticas/funcional/haskell07">prática com recursão, construção de listas e pattern matching.</a></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td>15/04/2020</td>
 <td>Qua</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell08">prática de programação funcional com entrega no GitHub Classroom.</a></td>
