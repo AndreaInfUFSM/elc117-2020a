@@ -28,7 +28,7 @@ Você talvez tenha pensado que uma boa forma de representar um labirinto seja at
 type Cell = ((Int,Int),(Bool,Bool,Bool,Bool))
 ```
 
-Com este tipo, por exemplo, uma célula ``((0,0),(True,True,True,False))`` pode designar que a posição (0,0) do labirinto possui "paredes" ao norte, sul e oeste, e uma passagem (ausência de parede) ao leste. Usando essa representação, seu labirinto pode ser implementado pelo tipo ``[Cell]'' (ou seja, uma lista de `Cell`).
+Com este tipo, por exemplo, uma célula ``((0,0),(True,True,True,False))`` pode designar que a posição (0,0) do labirinto possui "paredes" ao norte, sul e oeste, e uma passagem (ausência de parede) ao leste. Usando essa representação, seu labirinto pode ser implementado pelo tipo ``[Cell]`` (ou seja, uma lista de ``Cell``).
 
 
 
