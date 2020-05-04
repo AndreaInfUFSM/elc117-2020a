@@ -10,7 +10,7 @@ Neste trabalho, você vai criar um programa em Haskell capaz de gerar labirintos
 
 O maior desafio deste trabalho é resolver o problema com programação funcional, procurando pensar de forma diferente do que você faria em uma linguagem imperativa como C, por exemplo. Para começar, lembre-se que na programação funcional as funções não têm efeitos colaterais, e uma consequência disso é que as funções que fazem I/O (escrita do arquivo SVG, por exemplo) ficam separadas das funções que processam dados e realizam cálculos. A função principal do seu programa faz I/O: ela escreve num arquivo após invocar as demais funções que geram e processam os dados do labirinto. A maior parte do seu código será dedicada a essas outras funções, que deverão gerar uma representação de um labirinto (uma estrutura de dados) e convertê-lo para uma representação textual (strings) usando tags SVG. Uma vez geradas as strings, a função principal poderá gravá-las num arquivo.
 
-Outra característica da programação funcional é que ela incentiva a decomposição de um problema complexo em sub-problemas mais simples. Funções simples e dedicadas a uma parte do problema são chamadas por outras, que em última instância são chamadas pela função principal. Para exercitar essa decomposição, faremos o trabalho incrementalmente, dividindo-o em duas entregas. Na primeira entrega, você vai implementar uma representação de um labirinto que possa ser traduzida para o formato SVG. Seu programa ainda não vai implementar a lógica de geração de um labirinto, ou seja, você vai trabalhar com uma estrutura de dados preenchida manualmente e vai apenas traduzi-la para uma representação em SVG  Na segunda entrega, você vai incrementar o programa, implementando a lógica para gerar a estrutura de dados que representa o labirinto. Para ambas as entregas, poderão ser publicadas algumas dicas ao longo das próximas aulas, para responder dúvidas que forem surgindo.
+Outra característica da programação funcional é que ela incentiva a decomposição de um problema complexo em sub-problemas mais simples. Funções simples e dedicadas a uma parte do problema são chamadas por outras, que em última instância são chamadas pela função principal. Para exercitar essa decomposição, faremos o trabalho incrementalmente, dividindo-o em duas entregas. Na **primeira entrega**, você vai implementar uma representação de um labirinto que possa ser traduzida para o formato SVG. Seu programa ainda não vai implementar a lógica de geração de um labirinto, ou seja, você vai trabalhar com uma estrutura de dados preenchida manualmente e vai apenas traduzi-la para uma representação em SVG  Na **segunda entrega**, você vai incrementar o programa, implementando a lógica para gerar a estrutura de dados que representa o labirinto. Para ambas as entregas, poderão ser publicadas algumas dicas ao longo das próximas aulas, para responder dúvidas que forem surgindo.
 
 ## Aquecimento
 
@@ -28,16 +28,17 @@ Você talvez tenha pensado que uma boa forma de representar um labirinto seja at
 type Cell = ((Int,Int),(Bool,Bool,Bool,Bool))
 ```
 
-Com este tipo, por exemplo, uma célula ``((0,0),(True,True,True,False))`` pode designar que a posição (0,0) do labirinto possui "paredes" ao norte, sul e oeste, e uma passagem (ausência de parede) ao leste. Usando essa representação, seu labirinto pode ser implementado pelo tipo ``[Cell]`` (ou seja, uma lista de ``Cell``).
+Com este tipo, por exemplo, uma célula ``((0,0),(True,True,True,False))`` pode designar que a posição (0,0) do labirinto possui "paredes" ao norte, sul e oeste, e uma passagem (ausência de parede) ao leste. Usando essa representação, seu labirinto pode ser implementado pelo tipo ``[Cell]`` (ou seja, uma lista de ``Cell``). Em [Examples.hs](Examples.hs) encontram-se exemplos de listas de Cell representando labirintos.
+
+Depois de conseguir representar um labirinto e traduzi-lo para SVG, você pode começar a trabalhar na geração das células programaticamente, ou seja, definindo funções para isso. Nesta etapa, não se preocupe em ter um caminho no labirinto. Você pode começar gerando células com todas as paredes fechadas e depois abrir algumas aleatoriamente. Veja no material de apoio alguns links sobre números aleatórios em Haskell.
 
 
-
-Aqui futuramente poderá haver mais dicas sobre a primeira parte.
 
 ## Segunda Entrega
 
-Aqui futuramente poderá haver dicas sobre a segunda parte.
+Na segunda (e última) entrega, seu programa deverá gerar um labirinto com um caminho entre 2 células. Há várias formas de fazer isso: usando algoritmos existentes ou criando seu próprio. Um algoritmo que se presta bem a esse problema é o [algoritmo de Prim](https://en.wikipedia.org/wiki/Prim%27s_algorithm) que, dado um grafo não-orientado conectado, gera um subgrafo sob forma de uma árvore que conecta todos os vértices (*minimum spanning tree* ou, em português, árvore geradora mínima). Para usar esse algoritmo, considere que cada célula do labirinto é um nó (vértice) do grafo. Como o grafo não é valorado (arestas não têm pesos), você pode adaptar o algoritmo para escolher vértices vizinhos aleatoriamente, já que não nos interessa um caminho de menor custo.
 
+Se você preferir criar seu próprio algoritmo, pode também gerar um labirinto com caminhos que seguem uma combinação de esquemas, por exemplo caminhos em formato de escada ou espiral, com as demais células geradas com paredes aleatórias. Se você optar por gerar esses labirintos mais simples, experimente criar mais de uma função geradora, para poder escolher o labirinto que tiver melhor aparência.
 
 
 ## Repositório de Entrega
@@ -55,5 +56,11 @@ Você deverá atualizar o repositório sempre que incrementar o trabalho. Ou sej
 
 - [Tutorial SVG](https://www.w3schools.com/graphics/svg_intro.asp)  
   Tutorial SVG no W3Schools
+
+- [Random numbers in Haskell](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/randoms)  
+  Tutorial do School of Haskell
+  
+
+
 
 

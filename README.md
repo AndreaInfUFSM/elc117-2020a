@@ -44,82 +44,94 @@ Sala: 368, CT - Práticas: 334, CT
  </td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">-</td>
 <td>16/03/2020</td>
 <td>Seg</td>
  <td>Sem aula. Evento <a href="https://www.ufsm.br/unidades-universitarias/ct/eventos/aula-inaugural-mulheres-na-tecnologia/">Mulheres na Tecnologia</a></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td>18/03/2020</td>
 <td>Qua</td>
  <td>Programação funcional: <a href="praticas/funcional/haskell01">prática com definição de funções e uso de funções de alta ordem</a>.</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td>23/03/2020</td>
 <td>Seg</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell02">prática com funções de alta ordem e funções lambda.</a></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td>25/03/2020</td>
 <td>Qua</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell03">prática com funções em geral, especialmente funções de alta ordem e funções lambda.</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td>30/03/2020</td>
 <td>Seg</td>
 <td>Programação funcional: <a href="https://forms.gle/Uq6XmgJJ6HFNsfdC9">questionário</a> sobre os conteúdos vistos até esta data.</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">7</td>
 <td>01/04/2020</td>
 <td>Qua</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell04">prática sobre tuplas e listas</a>.</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">8</td>
 <td>06/04/2020</td>
 <td>Seg</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell05">prática com programas mais longos (let/where,I/O)</a>. Exemplos: validação de CPF e geração de SVG usando programação funcional.</a></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">9</td>
 <td>08/04/2020</td>
 <td>Qua</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell06">prática com geração de listas e list comprehension.</a></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">10</td>
 <td>13/04/2020</td>
 <td>Seg</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell07">prática com recursão, construção de listas e pattern matching.</a></td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">11</td>
 <td>15/04/2020</td>
 <td>Qua</td>
 <td>Programação funcional: <a href="praticas/funcional/haskell08">prática de programação funcional com entrega no GitHub Classroom.</a></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">12</td>
 <td>20/04/2020</td>
 <td>Seg</td>
 <td>Programação funcional: resolução/correção dos exercícios <a href="praticas/funcional/haskell08">haskell08</a> e visão geral do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">13</td>
 <td>22/04/2020</td>
 <td>Qua</td>
 <td>Programação funcional: implementação da primeira parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">14</td>
 <td>27/04/2020</td>
 <td>Seg</td>
 <td>Programação funcional: implementação da primeira parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
+</tr>
+<tr>
+<td align="right">-</td>
+<td>28/04/2020</td>
+<td>Qua</td>
+<td>Sem aula.</a>.</td>
+</tr>
+<tr>
+<td align="right">-</td>
+<td>04/05/2020</td>
+<td>Seg</td>
+<td>Programação funcional: implementação da segunda parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
 </tr>
 <!--
 <tr>
