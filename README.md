@@ -125,10 +125,10 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">-</td>
 <td>28/04/2020</td>
 <td>Qua</td>
-<td>Sem aula.</a>.</td>
+<td>Sem aula.</td>
 </tr>
 <tr>
-<td align="right">-</td>
+<td align="right">15</td>
 <td>04/05/2020</td>
 <td>Seg</td>
 <td>Programação funcional: implementação da segunda parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
