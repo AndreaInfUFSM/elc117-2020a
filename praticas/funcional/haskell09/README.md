@@ -39,6 +39,6 @@ Você sabe o que é um ["linter"](https://en.wikipedia.org/wiki/Lint_(software))
 3. Para cada arquivo, analise as sugestões do Hlint e incorpore-as ao seu código, caso sejam pertinentes. Você provavelmente vai ver várias sugestões mais superficiais para remover parênteses, mas também algumas mais profundas, sugerindo uso de outras funções ou recursos de Haskell. 
 
 
-4. Faça commit-push do seu código modificado no repositório do t4.
+4. Faça commit-push do seu código modificado no seu repositório do t4.
 
 
