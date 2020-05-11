@@ -30,11 +30,11 @@ Você sabe o que é um ["linter"](https://en.wikipedia.org/wiki/Lint_(software))
    Se o comando não for encontrado, volte à etapa de instalação e procure por possíveis erros. 
    
    
-2. Aplique o hlint em **cada arquivo .hs** que você criou para o t4. Por exemplo:
+2. Aplique o Hlint em **cada arquivo .hs** que você criou para o t4. Por exemplo:
    ```
    hlint Main.hs
    ```
-   Se você está usando o Repl.it, vai ser necessário copiar os arquivos do t4 para lá.
+   Se você optar por usar o Repl.it, vai ser necessário copiar os arquivos do t4 para dentro do projeto que instala o Hlint.
    
 3. Para cada arquivo, analise as sugestões do Hlint e incorpore-as ao seu código, caso sejam pertinentes. Você provavelmente vai ver várias sugestões mais superficiais para remover parênteses, mas também algumas mais profundas, sugerindo uso de outras funções ou recursos de Haskell. 
 
