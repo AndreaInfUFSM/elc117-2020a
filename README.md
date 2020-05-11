@@ -133,6 +133,18 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Seg</td>
 <td>Programação funcional: implementação da segunda parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
 </tr>
+<td align="right">16</td>
+<td>06/05/2020</td>
+<td>Qua</td>
+<td>Programação funcional: implementação da segunda parte do <a href="trabalhos/t1">trabalho de Haskell (t1)</a>.</td>
+</tr>
+
+<tr>
+<td align="right">17</td>
+<td>11/05/2020</td>
+<td>Seg</td>
+ <td>Avaliação do trabalho de Haskell. <a href="praticas/funcional/haskell09">Prática com Hlint</a> para melhoria do código do t1.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>
