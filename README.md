@@ -335,7 +335,8 @@ Sala: 368, CT - Práticas: 334, CT
 ## Bibliografia
 
  - Robert Sebesta. Conceitos de Linguagens de Programação. Bookman, 2018. Disponível no [Portal de E-books](https://www.ufsm.br/orgaos-suplementares/biblioteca/e-books-2/) da UFSM.
- - Miran Lipovača. [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+ - Miran Lipovača. [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
+ - Markus Triska. [The Power of Prolog](https://www.metalevel.at/prolog).
  - Outros materiais de referência indicados ao final de cada grupo de slides.
 
 
