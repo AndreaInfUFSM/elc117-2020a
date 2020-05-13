@@ -13,7 +13,7 @@ Slides
    - [Geração de listas em Haskell](https://docs.google.com/presentation/d/1TMixYL165fAWWSdmBSz15Bv6rwBG8BpaCMktSRxiypc/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1TMixYL165fAWWSdmBSz15Bv6rwBG8BpaCMktSRxiypc/export/pdf)
    - [Recursão, construção de listas e pattern matching](https://docs.google.com/presentation/d/1CgQfX9IMbhj8Qmy7sUsxAmtXdxFqe47puFElN7JDobo/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1CgQfX9IMbhj8Qmy7sUsxAmtXdxFqe47puFElN7JDobo/export/pdf)
 - Paradigma lógico
-   - [Introdução à programação lógica](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/edit?usp=sharing) [(PDF](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/export/pdf) | [Aula Gravada)](https://drive.google.com/file/d/1_1JCudbZOdeIUgpN3_OaLSe9SwdVaOxt/view?usp=sharing)
+   - [Introdução à programação lógica](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/edit?usp=sharing) [(PDF](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/export/pdf) | [Vídeo)](https://drive.google.com/file/d/1_1JCudbZOdeIUgpN3_OaLSe9SwdVaOxt/view?usp=sharing)
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/export/pdf)
 <!--
 
