@@ -145,6 +145,12 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Seg</td>
  <td>Avaliação do trabalho de Haskell. <a href="praticas/funcional/haskell09">Prática com Hlint</a> para melhoria do código do t1.</td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td>13/05/2020</td>
+<td>Qua</td>
+ <td>Introdução à programação lógica: <a href="https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/edit?usp=sharing">slides</a> ou <a href="https://drive.google.com/file/d/1_1JCudbZOdeIUgpN3_OaLSe9SwdVaOxt/view?usp=sharing">vídeo</a>. Introdução à linguagem Prolog (fatos, regras, consultas e variáveis): <a href="https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/edit?usp=sharing">slides</a>. <a href="praticas/logicoprolog1">Primeira prática com Prolog</a>.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>
