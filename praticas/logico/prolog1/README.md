@@ -38,6 +38,8 @@ Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoa
 
 Você pode salvar este programa e abri-lo com SWI-Prolog, caso esteja instalado localmente. Também pode copiá-lo para o SWIGH: https://swish.swi-prolog.org/
 
+Depois de tentar um primeiro contato com um desses ambientes, veja este [vídeo](https://drive.google.com/file/d/13mAGl5BLEcruIgG7tLuxa2TnoeRKQdx5/view?usp=sharing) que explica o programa e sua execução no SWISH.
+
 ## Exercícios
 
 1. Depois de carregar o programa, execute cada uma das consultas abaixo no interpretador interativo. Observe as respostas e compare-as com os fatos e regras do programa.
