@@ -151,6 +151,12 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Qua</td>
  <td>Introdução à programação lógica: <a href="https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/edit?usp=sharing">slides</a> ou <a href="https://drive.google.com/file/d/1_1JCudbZOdeIUgpN3_OaLSe9SwdVaOxt/view?usp=sharing">vídeo</a>. Introdução à linguagem Prolog (fatos, regras, consultas e variáveis): <a href="https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/edit?usp=sharing">slides</a>. <a href="praticas/logico/prolog1">Primeira prática com Prolog</a>.</td>
 </tr>
+<tr>
+<td align="right">19</td>
+<td>18/05/2020</td>
+<td>Seg</td>
+ <td>Programação lógica em Prolog. <a href="praticas/logico/prolog2">Segunda prática com Prolog</a>: consultas e regras, listas e problemas de lógica.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>

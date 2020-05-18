@@ -15,6 +15,9 @@ Slides
 - Paradigma lógico
    - [Introdução à programação lógica](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/edit?usp=sharing) [(PDF](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/export/pdf) | [Vídeo)](https://drive.google.com/file/d/1_1JCudbZOdeIUgpN3_OaLSe9SwdVaOxt/view?usp=sharing)
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/export/pdf)
+   - [Listas em Prolog](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/export/pdf)
+   
+
 <!--
 
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/export/pdf)
