@@ -18,21 +18,21 @@ A execução de programas Prolog é implementada como um processo de busca sobre
 
 1. Copie o código Prolog abaixo para dentro de um arquivo .pl. 
 
-```prolog
-ismember(X, [X|_]).        % ismember(X, [Head|Tail]) is true if X = Head 
-                           % that is, if X is the head of the list
-ismember(X, [_|Tail]) :-   % or if X is a member of Tail,
-  ismember(X, Tail).       % ie. if ismember(X, Tail) is true.
-```
+   ```prolog
+   ismember(X, [X|_]).        % ismember(X, [Head|Tail]) is true if X = Head 
+                              % that is, if X is the head of the list
+   ismember(X, [_|Tail]) :-   % or if X is a member of Tail,
+     ismember(X, Tail).       % ie. if ismember(X, Tail) is true.
+   ```
 
 2. Carregue o arquivo no SWI-Prolog e execute as seguintes consultas no modo `trace`. Sempre que o interpretador parar mostrando um resultado, digite ";" para continuar. O prompt do interpretador vai ser mostrado quando não houver mais continuidade possível.
-```
-?- trace.
-[trace]  ?- ismember(a,[a,b,c,d]).
-[trace]  ?- ismember(a,[b,c,d,a]).
-[trace]  ?- ismember(z,[a,b,c,d]).
-[trace]  ?- ismember(X,[a,b,c]).
-```
+   ```
+   ?- trace.
+   [trace]  ?- ismember(a,[a,b,c,d]).
+   [trace]  ?- ismember(a,[b,c,d,a]).
+   [trace]  ?- ismember(z,[a,b,c,d]).
+   [trace]  ?- ismember(X,[a,b,c]).
+   ```
 
 ## Exercícios com cut
 
@@ -85,10 +85,10 @@ Em Prolog, o operador **!** (leia-se: cut) é usado para **impedir o retrocesso 
 9. Analise o código em [fatoriais.pl](fatoriais.pl), comparando os predicados ``fatv2`` e ``fatv3`` com o predicado ``fatv1``. 
 
 10. Execute as consultas abaixo, digitando **;** após cada resposta. Compare os resultados com os da consulta anterior (``fatv1``). 
-   ```
-   ?- fatv2(3,N).
-   ?- fatv3(3,N).
-   ```
+    ```
+    ?- fatv2(3,N).
+    ?- fatv3(3,N).
+    ```
 
 11. Ative o modo **trace** e re-execute as consultas acima, acompanhando suas execuções. 
 
