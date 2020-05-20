@@ -157,6 +157,12 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Seg</td>
  <td>Programação lógica em Prolog. <a href="praticas/logico/prolog2">Segunda prática com Prolog</a>: consultas e regras, listas e problemas de lógica.</td>
 </tr>
+<tr>
+<td align="right">20</td>
+<td>20/05/2020</td>
+<td>Qua</td>
+ <td>Programação lógica em Prolog. <a href="praticas/logico/prolog3">Terceira prática com Prolog</a>: processo de execução de programas Prolog, execução passo-a-passo.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>
