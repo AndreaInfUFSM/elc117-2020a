@@ -163,6 +163,12 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Qua</td>
  <td>Programação lógica em Prolog. <a href="praticas/logico/prolog3">Terceira prática com Prolog</a>: processo de execução de programas Prolog, execução passo-a-passo.</td>
 </tr>
+<tr>
+<td align="right">21</td>
+<td>25/05/2020</td>
+<td>Seg</td>
+ <td>Programação lógica em Prolog. <a href="praticas/logico/prolog4">Quarta prática com Prolog</a>: exemplo de programa que simula raciocínio dedutivo.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>
