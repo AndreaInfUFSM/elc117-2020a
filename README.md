@@ -169,6 +169,12 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Seg</td>
  <td>Programação lógica em Prolog. <a href="praticas/logico/prolog4">Quarta prática com Prolog</a>: exemplo de programa que simula raciocínio dedutivo.</td>
 </tr>
+<tr>
+<td align="right">22</td>
+<td>27/05/2020</td>
+<td>Qua</td>
+ <td>Programação lógica em Prolog: listas e recursão (<a href="https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/edit?usp=sharing">slides</a> e <a href="">vídeo</a>). <a href="praticas/logico/prolog5">Quinta prática com Prolog</a>: definindo predicados recursivos.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>

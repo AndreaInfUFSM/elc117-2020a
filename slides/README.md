@@ -15,8 +15,8 @@ Slides
 - Paradigma lógico
    - [Introdução à programação lógica](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/edit?usp=sharing) [(PDF](https://docs.google.com/presentation/d/1BBdEMiomZmtC2hBAHEYMAXUk1VqxqkPSlUhWrjcyp5g/export/pdf) | [Vídeo)](https://drive.google.com/file/d/1_1JCudbZOdeIUgpN3_OaLSe9SwdVaOxt/view?usp=sharing)
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/export/pdf)
-   - [Listas em Prolog](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/export/pdf)
-   - [Processo de inferência em Prolog](hhttps://docs.google.com/presentation/d/197tgx5dL0qi8TpT86D7N-iZURokOtCrf9i45OJam59E/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/197tgx5dL0qi8TpT86D7N-iZURokOtCrf9i45OJam59E/export/pdf)
+   - [Listas e recursão em Prolog](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/edit?usp=sharing) [(PDF](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/export/pdf) | [Vídeo)](https://drive.google.com/file/d/1MaIl_4LPkijwLZMPRBMR2Ky6v6M_zbo1/view?usp=sharing)
+   - [Processo de inferência em Prolog](https://docs.google.com/presentation/d/197tgx5dL0qi8TpT86D7N-iZURokOtCrf9i45OJam59E/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/197tgx5dL0qi8TpT86D7N-iZURokOtCrf9i45OJam59E/export/pdf)
    
 
 <!--
