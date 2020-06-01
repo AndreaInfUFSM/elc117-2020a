@@ -1,4 +1,4 @@
-# Trabalho 2: Resolva um mistério em Prolog
+# Opção 1: Resolva um Mistério em Prolog
 
 
 ## O Contexto
