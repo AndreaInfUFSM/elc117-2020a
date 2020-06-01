@@ -10,7 +10,7 @@ Miss Marple e Hercule Poirot acham a ideia fantástica, mas não lembram bem a s
 
 ## O Mistério
 
-Em uma aglomeração (festinha) clandestina na casa do milionário Sr. Dollars, o anfitrião é assassinado! Todos os presentes na festa foram imediatamente detidos como suspeitos: eram 3 homens (Edward, David, Frank) e 3 mulheres (Alice, Brenda, Catherine). Cada suspeito estava em um cômodo da casa: Banheiro, Sala de Jantar, Cozinha, Sala de Estar, Despensa e Escritório. Em cada cômodo, foi encontrada uma possível arma do crime: Gás, Veneno, Corda, Saco Plástico, Travesseiro e Smartphone.
+Em uma aglomeração (festinha) clandestina na casa do milionário Sr. Dollars, o anfitrião é assassinado! Todos os presentes na festa foram imediatamente detidos como suspeitos: eram 3 homens (David, Edward, Frank) e 3 mulheres (Alice, Brenda, Catherine). Cada suspeito estava em um cômodo da casa: Banheiro, Sala de Jantar, Cozinha, Sala de Estar, Despensa e Escritório. Em cada cômodo, foi encontrada uma possível arma do crime: Gás, Veneno, Corda, Saco Plástico, Travesseiro e Smartphone.
 
 Para descobrir quem matou o Sr. Dollars, você precisa descobrir onde cada pessoa estava e qual arma foi encontrada em cada cômodo. É preciso responder a todas as perguntas para solucionar completamente o crime.
 
