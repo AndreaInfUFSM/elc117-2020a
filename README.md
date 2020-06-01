@@ -175,6 +175,14 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Qua</td>
  <td>Programação lógica em Prolog: listas e recursão (<a href="https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1MaIl_4LPkijwLZMPRBMR2Ky6v6M_zbo1/view?usp=sharing">vídeo</a>). <a href="praticas/logico/prolog5">Quinta prática com Prolog</a>: definindo predicados recursivos.</td>
 </tr>
+
+<tr>
+<td align="right">23</td>
+<td>01/06/2020</td>
+<td>Seg</td>
+ <td>Programação lógica: desenvolvimento do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
+</tr>
+
 <!--
 <tr>
 <td align="right">11</td>
