@@ -11,7 +11,7 @@ Neste trabalho, você vai resolver problemas em Prolog. Os problemas estão dist
 
 ## Parte Comum
 
-Nesta parte, você vai resolver 2 exercícios em Prolog que foram propostos em exames nacionais. Aguarde que a professora ainda está escolhendo e definindo melhor o que será entregue :-)
+Nesta parte, você vai resolver 2 exercícios em Prolog que foram propostos em exames nacionais. Aguarde, pois a professora ainda está escolhendo e definindo melhor o que será entregue :-)
 
 Quando esta parte estiver definida, esta descrição será atualizada e a turma será informada no Discord.
 
