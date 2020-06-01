@@ -1,9 +1,9 @@
-# Trabalho 2: Jogo de Adivinhação em Prolog
+# Opção 2: Jogo de Adivinhação em Prolog
 
 
 ## Introdução
 
-Você lembra do Akinator e da [prática](../../praticas/logico/prolog4) com um programa que tenta adivinhar um animal? Pois então... Seu trabalho vai ser um programa nesta linha, mas num nível de complexidade intermediário: nem tão complicado quanto o Akinator e nem tão simples quando o exercício da aula prática. 
+Você lembra do Akinator e da [prática](../../praticas/logico/prolog4) com um programa que tenta adivinhar um animal? Pois então... Nesta opção, seu trabalho vai ser um programa nesta linha, mas num nível de complexidade intermediário: nem tão complicado quanto o Akinator e nem tão simples quando o exercício da aula prática. 
 
 Para isso, vamos acrescentar um grande diferencial: seu "adivinhador" vai ser especialista em um domínio de conhecimento, a partir do qual você vai construir sua base de fatos e regras. As perguntas que o programa fará ao usuário serão todas inseridas nesse domínio. Você pode escolher o domínio à vontade. Alguns temas que podem render trabalhos bem originais: adivinhar a linguagem de programação a partir de suas características, adivinhar colegas/professores/disciplinas da UFSM :-), adivinhar um local onde vocês podem se encontrar após a pandemia :-D, adivinhar um game, um vírus :-), etc. 
 
