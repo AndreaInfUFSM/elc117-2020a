@@ -182,7 +182,19 @@ Sala: 368, CT - Práticas: 334, CT
 <td>Seg</td>
  <td>Programação lógica: desenvolvimento do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
 </tr>
+<tr>
+<td align="right">24</td>
+<td>03/06/2020</td>
+<td>Qua</td>
+ <td>Programação lógica: desenvolvimento do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
+</tr>
 
+<tr>
+<td align="right">25</td>
+<td>08/06/2020</td>
+<td>Seg</td>
+ <td>Programação lógica: desenvolvimento do <a href="trabalhos/t2">trabalho de Prolog (t2)</a>.</td>
+</tr>
 <!--
 <tr>
 <td align="right">11</td>
