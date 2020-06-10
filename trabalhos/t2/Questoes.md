@@ -70,5 +70,5 @@ V. A disjunção dos predicados `selecionados` e `desconsiderados`, para quaisqu
 ## Entrega
 
 
-Entregue o material produzido no repositório do t2, junto com os demais arquivos.
+Entregue o material produzido no repositório do t2, junto com os demais arquivos. Se o material estiver online em outro servidor, entregue um documento em formado markdown informando a URL.
 
