@@ -52,12 +52,12 @@ descartado(P) :- not(superior(P)).
 
 Considerando apenas as colocações e cláusulas acima e a hipótese de mundo fechado (*closed world assumption*), avalie as afirmações a seguir.
 
-I. Para todos valores dos parâmetros P e Q, o predicado `selecionados` retornará um
+- I. Para todos valores dos parâmetros P e Q, o predicado `selecionados` retornará um
 valor lógico falso.
-II. Para todos os valores de P e Q, os predicados `selecionados` e `desconsiderados` retornarão valores lógicos diferentes.
-III. A conjunção dos predicados `selecionados` e `desconsiderados`, para quaisquer valores de P e Q, retornará um valor lógico verdadeiro.
-IV. Para qualquer valor de parâmetro P, o predicado `descartado` retornará um valor verdadeiro.
-V. A disjunção dos predicados `selecionados` e `desconsiderados`, para quaisquer valores de P e Q, retornará um valor lógico verdadeiro.
+- II. Para todos os valores de P e Q, os predicados `selecionados` e `desconsiderados` retornarão valores lógicos diferentes.
+- III. A conjunção dos predicados `selecionados` e `desconsiderados`, para quaisquer valores de P e Q, retornará um valor lógico verdadeiro.
+- IV. Para qualquer valor de parâmetro P, o predicado `descartado` retornará um valor verdadeiro.
+- V. A disjunção dos predicados `selecionados` e `desconsiderados`, para quaisquer valores de P e Q, retornará um valor lógico verdadeiro.
 
 É correto apenas o que se afirma em
 - A. I e II
