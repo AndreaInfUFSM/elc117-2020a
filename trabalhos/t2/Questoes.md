@@ -12,9 +12,7 @@ Sua tarefa será resolver e explicar a solução dessas questões, usando o que 
 Você deverá **entregar a explicação** em uma das seguintes formas:
 - um vídeo mostrando slides, com explicação em áudio
 - um áudio explicando as soluções
-- uma animação criada usando algum software como Visme, Prezi, Genially, Beautiful.ai, etc. 
-
-
+- uma animação criada usando algum software como Visme, Prezi, Genially, Beautiful.ai, alguma biblioteca em JavaScript, etc. 
 
 ## Questão 1
 
