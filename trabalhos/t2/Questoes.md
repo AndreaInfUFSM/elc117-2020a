@@ -2,7 +2,7 @@
 
 Este enunciado refere-se à parte comum do trabalho de Prolog, isto é, a parte que todos devem entregar.
 
-Você conhece alguns exames nacionais aplicados a estudantes do ensino superior? Um deles é o ENADE, aplicado pelo MEC de três em três anos (talvez você precise fazer este exame para se diplomar). Outro exame é o POSCOMP, aplicado pela Sociedade Brasileira de Computação a estudantes que desejam ingressar em cursos de pós-graduação na área.
+Você conhece alguns exames nacionais aplicados a estudantes do ensino superior? Um deles é o ENADE, aplicado pelo MEC de três em três anos (talvez você precise fazer este exame para se diplomar). Outro exame é o POSCOMP, aplicado anualmente pela Sociedade Brasileira de Computação a estudantes que desejam ingressar em cursos de pós-graduação na área.
 
 Questões sobre linguagens de programação são comuns nesses exames. Abaixo temos 2 questões sobre Prolog selecionadas dessas provas.
 
