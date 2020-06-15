@@ -207,7 +207,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">26</td>
 <td>15/06/2020</td>
 <td>Seg</td>
- <td><a href="https://docs.google.com/spreadsheets/d/1bHiCVagIcd_5IVAYML_VN3lWYDCfqgFdNzalPeNrUHQ/edit?usp=sharing">Avaliação</a> do trabalho de Prolog. <a href="https://drive.google.com/file/d/1boq_KQt5vkq1i9A7eqFSKz0KfMmMBQ1U/view?usp=sharing">Áudio</a> com encerramento das unidades sobre programação funcional e lógica. Programação orientada a objetos: [primeiro contato com Java](praticas/oo/java1).</td>
+ <td><a href="https://docs.google.com/spreadsheets/d/1bHiCVagIcd_5IVAYML_VN3lWYDCfqgFdNzalPeNrUHQ/edit?usp=sharing">Avaliação</a> do trabalho de Prolog. <a href="https://drive.google.com/file/d/1boq_KQt5vkq1i9A7eqFSKz0KfMmMBQ1U/view?usp=sharing">Áudio</a> com encerramento das unidades sobre programação funcional e lógica. Programação orientada a objetos: <a href="praticas/oo/java1">primeiro contato com Java</a>.</td>
 </tr>
 
 <!--
