@@ -215,7 +215,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">26</td>
 <td>17/06/2020</td>
 <td>Qua</td>
- <td>Programação orientada a objetos: introdução (<a href="https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing">vídeo</a>), conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (slides e vídeo). Segunda <a href="praticas/oo/java2">prática</a> com Java.</td>
+ <td>Programação orientada a objetos: introdução (<a href="https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing">vídeo</a>), conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing">vídeo</a>). Segunda <a href="praticas/oo/java2">prática</a> com Java.</td>
 </tr>
 
 <!--
