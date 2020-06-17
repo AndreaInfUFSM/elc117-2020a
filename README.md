@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2020a
-[Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#aulas) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) | [Quizzes](#quizzes)
+[Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#avaliações) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) | [Quizzes](#quizzes)
 
 
 Primeiro semestre de 2020  
