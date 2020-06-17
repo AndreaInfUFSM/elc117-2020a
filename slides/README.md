@@ -17,7 +17,9 @@ Slides
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/1-XSnxqA9-Ub7Kq0Kd4sHm17wUETLrzXkqW6WODMG98I/export/pdf)
    - [Listas e recursão em Prolog](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/edit?usp=sharing) [(PDF](https://docs.google.com/presentation/d/1JDEbRUr0QYoRjx-DHRUEeX-UWwKSCObI0UcJPYVoASM/export/pdf) | [Vídeo)](https://drive.google.com/file/d/1MaIl_4LPkijwLZMPRBMR2Ky6v6M_zbo1/view?usp=sharing)
    - [Processo de inferência em Prolog](https://docs.google.com/presentation/d/197tgx5dL0qi8TpT86D7N-iZURokOtCrf9i45OJam59E/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/197tgx5dL0qi8TpT86D7N-iZURokOtCrf9i45OJam59E/export/pdf)
-   
+- Paradigma orientado a objetos
+   - [Introdução à programação orientada a objetos](https://drive.google.com/open?id=1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4)
+   - Encapsulamento, classes e objetos em Java: ([slides](https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing) | [Vídeo](https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing))
 
 <!--
 
