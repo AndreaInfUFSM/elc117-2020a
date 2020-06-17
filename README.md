@@ -204,7 +204,7 @@ Sala: 368, CT - Práticas: 334, CT
 </tr>
 
 <tr>
-<td align="right">26</td>
+<td align="right">27</td>
 <td>15/06/2020</td>
 <td>Seg</td>
  <td><a href="https://docs.google.com/spreadsheets/d/1bHiCVagIcd_5IVAYML_VN3lWYDCfqgFdNzalPeNrUHQ/edit?usp=sharing">Avaliação</a> do trabalho de Prolog. <a href="https://drive.google.com/file/d/1boq_KQt5vkq1i9A7eqFSKz0KfMmMBQ1U/view?usp=sharing">Áudio</a> com encerramento das unidades sobre programação funcional e lógica. Programação orientada a objetos: <a href="praticas/oo/java1">primeiro contato com Java</a>.</td>
@@ -212,7 +212,7 @@ Sala: 368, CT - Práticas: 334, CT
 
 
 <tr>
-<td align="right">26</td>
+<td align="right">28</td>
 <td>17/06/2020</td>
 <td>Qua</td>
  <td>Programação orientada a objetos: introdução (<a href="https://docs.google.com/presentation/d/11RNFeJRACGFEfN7-DSoiUpQMqAKnKC2HFdnco_QV6O4/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/18kV6l1WitQPhUNU5aXJU_-b_04JuHVKJ/view?usp=sharing">vídeo</a>), conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing">vídeo</a>). Segunda <a href="praticas/oo/java2">prática</a> com Java.</td>
