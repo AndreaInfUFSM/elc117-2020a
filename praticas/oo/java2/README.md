@@ -6,29 +6,6 @@
 
 Nesta prática você vai exercitar alguns conceitos de orientação a objetos resumidos nos slides sobre [Encapsulamento, classes e objetos em Java](https://drive.google.com/open?id=1S3Deuzbxmx71AIxZufadF7MTFq26WQ3_4ug4AtXcXi4). 
 
-Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Java (JDK) disponível em: http://www.oracle.com/technetwork/java/javase/downloads/index.html
-
-
-## Aquecimento
-
-
-1. Baixe o programa [OlaMundo.java](OlaMundo.java).
-
-2. Num terminal de comandos, compile o programa:
-
-   ```
-   javac OlaMundo.java
-   ```
-   O comando acima produz um arquivo .class para a classe contida em OlaMundo.java. Um arquivo .class contém um código (bytecode) interpretável por uma máquina virtual Java.
-
-3. Execute o programa, informando o **nome da classe** que contém um método main:
-
-   ```
-   java -cp . OlaMundo
-   ```
-   Obs.: Se algo der errado e você estiver usando Windows, veja esta [página da Oracle](https://docs.oracle.com/javase/tutorial/getStarted/problems/index.html) sobre problemas comuns e suas soluções. 
-
-
 
 ## Classe Circle
 
@@ -57,14 +34,14 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
     ```
     c1.r = 0.5;
     ```
-    Este erro se deve à visibilidade `private` do atributo `r`. Caso o atributo deva poder ser alterado, a forma mais recomendada é definir um método *setter*. O método `setRadius`  é um exemplo de *setter*. Outra opção (menos recomendada, mas usada na prática em classes muito pequenas ou para atributos constantes) seria alterar a visibilidade do atributo para `public`. Teste essa opção no atributo  `r` de `Circle` e observe que o erro de compilação deixa fica resolvido.
+    Este erro se deve à visibilidade `private` do atributo `r`. Caso o atributo deva poder ser alterado, a forma mais recomendada é definir um método *setter*. O método `setRadius`  é um exemplo de *setter*. Outra opção (menos recomendada, mas usada na prática em classes muito pequenas ou para atributos constantes) seria alterar a visibilidade do atributo para `public`. Teste essa opção no atributo  `r` de `Circle` e observe que o erro de compilação fica resolvido.
    
 
-10. Agora vamos testar a visibilidade do atributo `r` no programa [Circle.java](Circle.java). Inclua a seguinte linha de código ao final do método `main`:
+10. Agora restaure para `private` a visibilidade do atributo `r` no programa [Circle.java](Circle.java). Inclua a seguinte linha de código ao final do método `main`:
     ```
     c.r = 0.5;
     ```
-    Compile o programa e veja se haverá erro ou não. Explique.
+    Compile o programa e veja que não haverá erro relacionado à visibilidade. Qual será o motivo disso?
    
 
 11. No programa [Circle.java](Circle.java), acrescente a seguinte linha no construtor `Circle()`:
