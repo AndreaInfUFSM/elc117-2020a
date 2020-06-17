@@ -4,7 +4,7 @@
 
 ## Orientações 
 
-Nesta prática você vai exercitar alguns conceitos de orientação a objetos resumidos nos slides sobre [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing. 
+Nesta prática você vai exercitar alguns conceitos de orientação a objetos resumidos nos slides sobre [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing). 
 
 
 ## Classe Circle
