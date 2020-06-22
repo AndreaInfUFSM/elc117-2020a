@@ -4,7 +4,7 @@
 
 ## Orientações 
 
-Nesta prática você vai exercitar alguns conceitos de orientação a objetos resumidos nos slides sobre [encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing) e também nos slides sobre [uso de static em Java](https://docs.google.com/presentation/d/1VLjYnXuZ_Wisa7lZ0ANWdhFb4vPrgfopJv1oQC7bLzk/edit?usp=sharing). Além dos slides, há links para outros materiais complementares, indicados ao longo da prática.
+Nesta prática você vai exercitar alguns conceitos de orientação a objetos resumidos nos slides sobre [encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing) e também nos slides sobre [uso de static em Java](https://docs.google.com/presentation/d/1VLjYnXuZ_Wisa7lZ0ANWdhFb4vPrgfopJv1oQC7bLzk/edit?usp=sharing). Além dos slides, há links para outros materiais complementares, indicados ao longo da prática. **Tem até um vídeo, corre lá pra ver!**
 
 
 ## Classe User
@@ -53,7 +53,7 @@ Nesta prática você vai exercitar alguns conceitos de orientação a objetos re
    
 Swing é um dos toolkits que podem ser usados para criar interfaces gráficas em Java para desktop. Ele oferece várias classes úteis e é distribuído junto com várias versões do kit de desenvolvimento Java (JDK). Existem outros toolkits similares, por exemplo JavaFX, JGoodies, Apache Pivot, etc., que são distribuídos separadamente.
 
-Vamos partir de um exemplo simples com Swing para depois modificá-lo e usá-lo junto com a classe `User` dos exercícios anteriores. Usaremos o repl.it, para você ver que é possível usar Java com interface gráfica em nuvem, mas você pode copiar os exemplos e abri-los localmente no seu IDE favorito.
+Vamos partir de um exemplo simples com Swing para depois modificá-lo e usá-lo junto com a classe `User` dos exercícios anteriores. Usaremos o repl.it, para você ver que é possível usar Java com interface gráfica em nuvem, mas você pode copiar os exemplos e abri-los localmente no seu IDE favorito. Se você preferir, pode iniciar com este [vídeo](https://drive.google.com/file/d/1WiuyRxfp6PPM5eCvksbB_2e-bRlmZHid/view?usp=sharing) explicando um código no repl.it (útil principalmente para quem quiser explicações linha por linha).
 
 1. Clique em run para executar o código disponível [neste repl.it](https://repl.it/@AndreaSchwertne/java03swing). Clique no botão na interface e veja o que acontece. Você consegue identificar a parte do código que trata o clique no botão? Essa parte usa alguns recursos de Java/OO que ainda não vimos, mas, basicamente, chamamos o método `addActionListener` do objeto designado por `b` para indicar o código que será executado quando o botão for clicado. O restante do código usa recursos de OO em Java que veremos mais adiante.
 
