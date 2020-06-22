@@ -21,7 +21,7 @@ Slides
    - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/11RNFeJRACGFEfN7-DSoiUpQMqAKnKC2HFdnco_QV6O4/edit?usp=sharing) ([Vídeo](https://drive.google.com/file/d/18kV6l1WitQPhUNU5aXJU_-b_04JuHVKJ/view?usp=sharing
 ))
    - [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing) ([Vídeo](https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing))
-
+   - [Uso de static em Java](https://docs.google.com/presentation/d/1VLjYnXuZ_Wisa7lZ0ANWdhFb4vPrgfopJv1oQC7bLzk/edit?usp=sharing) 
 
 
 <!--
