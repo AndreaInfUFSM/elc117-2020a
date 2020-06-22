@@ -11,7 +11,7 @@ Nesta prática você vai exercitar alguns conceitos de orientação a objetos re
 
 1. Baixe o programa [User.java](User.java).
 
-2. Você consegue deduzir qual será a saída do programa sem executá-lo? Pense antes e depois execute o programa para conferir.
+2. Você consegue deduzir qual será a saída do `main` do programa sem executá-lo? Pense antes e depois execute o programa para conferir.
 
 3. Acrescente a seguinte linha ao final do método `main`:
    ```
