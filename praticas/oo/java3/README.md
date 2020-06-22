@@ -59,7 +59,7 @@ Vamos partir de um exemplo simples com Swing para depois modificá-lo e usá-lo 
 
 2. Faça fork do código e altere parâmetros do botão em `setBounds`.  Veja a documentação para a classe `JButton` em https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/swing/JButton.html (esta classe usa conceitos de OO que veremos adiante: herança e polimorfismo).
 
-3. Neste [repl.it[(https://repl.it/@AndreaSchwertne/java03swinguser)  há uma versão modificada do exemplo anterior, agora com um campo de texto (`JTextField`) além do botão. Clique em run para executar o código, preencha o campo e clique no botão para ver o que acontece.
+3. Neste [repl.it](https://repl.it/@AndreaSchwertne/java03swinguser)  há uma versão modificada do exemplo anterior, agora com um campo de texto (`JTextField`) além do botão. Clique em run para executar o código, preencha o campo e clique no botão para ver o que acontece.
 
 4. Veja que neste repl.it há mais arquivos. Em NewMain.java, temos um código que usa a classe User dos exercícios anteriores. Com poucas linhas a mais, o código cria um novo objeto User e o adiciona numa lista, a cada vez que o botão é clicado. A lista é da classe `ArrayList`. Veja mais sobre isso aqui: https://www.caelum.com.br/apostila-java-orientacao-objetos/collections-framework/#listas-javautillist
 
