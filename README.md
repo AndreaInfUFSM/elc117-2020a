@@ -218,6 +218,12 @@ Sala: 368, CT - Práticas: 334, CT
  <td>Programação orientada a objetos: introdução (<a href="https://docs.google.com/presentation/d/11RNFeJRACGFEfN7-DSoiUpQMqAKnKC2HFdnco_QV6O4/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/18kV6l1WitQPhUNU5aXJU_-b_04JuHVKJ/view?usp=sharing">vídeo</a>), conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing">slides</a> e <a href="https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing">vídeo</a>). Segunda <a href="praticas/oo/java2">prática</a> com Java.</td>
 </tr>
 
+<tr>
+<td align="right">29</td>
+<td>12/06/2020</td>
+<td>Seg</td>
+ <td>Programação orientada a objetos: terceira <a href="praticas/oo/java3">prática</a> com Java (classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList).</td>
+</tr>
 
 </tbody></table>
 
