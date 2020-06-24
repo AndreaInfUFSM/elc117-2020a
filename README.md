@@ -225,6 +225,14 @@ Sala: 368, CT - Práticas: 334, CT
  <td>Programação orientada a objetos: terceira <a href="praticas/oo/java3">prática</a> com Java (classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList).</td>
 </tr>
 
+
+<tr>
+<td align="right">29</td>
+<td>24/06/2020</td>
+<td>Qua</td>
+ <td>Programação orientada a objetos: herança. Quarta <a href="praticas/oo/java4">prática</a> com Java (extends, protected, super).</td>
+</tr>
+
 </tbody></table>
 
 
