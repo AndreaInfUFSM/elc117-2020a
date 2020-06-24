@@ -1,5 +1,6 @@
 # Prática: Herança em Java
 
+Antes de fazer esta prática, consulte os [slides sobre herança em Java](https://docs.google.com/presentation/d/1RqHDauB2jNiwos4CaNZfav5YgywwOxUyCtDrM60j36I/edit?usp=sharing).
 
 1. Baixe o programa [Inheritance.java](Inheritance.java).
 
