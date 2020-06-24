@@ -22,6 +22,7 @@ Slides
 ))
    - [Encapsulamento, classes e objetos em Java](https://docs.google.com/presentation/d/1mgI4MwuOgrX_ohtxUECe-ts0qDQH9SKjgiSzLfg2pHg/edit?usp=sharing) ([Vídeo](https://drive.google.com/file/d/1km7L2YPN0g-2Z_RK8QRMTsu-G9oOt1MJ/view?usp=sharing))
    - [Uso de static em Java](https://docs.google.com/presentation/d/1VLjYnXuZ_Wisa7lZ0ANWdhFb4vPrgfopJv1oQC7bLzk/edit?usp=sharing) 
+   - [Herança em Java](https://docs.google.com/presentation/d/1RqHDauB2jNiwos4CaNZfav5YgywwOxUyCtDrM60j36I/edit?usp=sharing) 
 
 
 <!--
