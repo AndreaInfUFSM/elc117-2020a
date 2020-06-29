@@ -227,10 +227,17 @@ Sala: 368, CT - Práticas: 334, CT
 
 
 <tr>
-<td align="right">29</td>
+<td align="right">30</td>
 <td>24/06/2020</td>
 <td>Qua</td>
  <td>Programação orientada a objetos: herança. Quarta <a href="praticas/oo/java4">prática</a> com Java (extends, protected, super).</td>
+</tr>
+
+<tr>
+<td align="right">31</td>
+<td>29/06/2020</td>
+<td>Seg</td>
+ <td>Programação orientada a objetos: polimorfismo. Quinta <a href="praticas/oo/java5">prática</a> com Java.</td>
 </tr>
 
 </tbody></table>
