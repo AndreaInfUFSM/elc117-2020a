@@ -20,7 +20,7 @@ public class GameItem {
   public void setImage(String image) {
     this.image = image;
   }
-  public String getImage(String image) {
+  public String getImage() {
     return image;
   }
   public String toString() {
