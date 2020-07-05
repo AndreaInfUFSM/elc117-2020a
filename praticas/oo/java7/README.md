@@ -7,8 +7,8 @@
 Nesta prática você vai exercitar conceitos de programação concorrente e orientada a objetos em Java.
 
 Antes de fazer esta prática, consulte este material:
-- Introdução à programação concorrente : [slides](https://docs.google.com/presentation/d/1mYoRmmIQJaBi6Y_UkPWnx9kLx4SO2QTFVBlE-anwlHE/edit?usp=sharing) ou [vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing) (independente de linguagem)
-- Programação concorrente em Java : [slides](https://docs.google.com/presentation/d/1sD3qdfyfVYXhpepPM11DWabAzEgtaO0-0gAQRoDmwgE/edit?usp=sharing) ou [vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing) (classe Thread, interface Runnable, métodos run, start e join)
+- Introdução à programação concorrente: [slides](https://docs.google.com/presentation/d/1mYoRmmIQJaBi6Y_UkPWnx9kLx4SO2QTFVBlE-anwlHE/edit?usp=sharing) ou [vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing) (independente de linguagem)
+- Programação concorrente em Java: [slides](https://docs.google.com/presentation/d/1sD3qdfyfVYXhpepPM11DWabAzEgtaO0-0gAQRoDmwgE/edit?usp=sharing) ou [vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing) (classe Thread, interface Runnable, métodos run, start e join)
 
 
 
