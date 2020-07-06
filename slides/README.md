@@ -25,7 +25,11 @@ Slides
    - [Herança em Java](https://docs.google.com/presentation/d/1RqHDauB2jNiwos4CaNZfav5YgywwOxUyCtDrM60j36I/edit?usp=sharing) 
    - [Classes abstratas e interfaces](https://docs.google.com/presentation/d/1ULQLcneDaqEvTXYPbcVLtOWtjK7nRX-y3pc7v_-z_ao/edit?usp=sharing) 
 
+- Programação concorrente
+   - Introdução à programação concorrente: [slides](https://docs.google.com/presentation/d/1mYoRmmIQJaBi6Y_UkPWnx9kLx4SO2QTFVBlE-anwlHE/edit?usp=sharing) ou [vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing) 
+   - Programação concorrente em Java: [slides](https://docs.google.com/presentation/d/1sD3qdfyfVYXhpepPM11DWabAzEgtaO0-0gAQRoDmwgE/edit?usp=sharing) ou [vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing) (classe Thread, interface Runnable, métodos run, start e join)
 
+  
 <!--
 
    - [Condicionais e recursividade em Haskell](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/edit?usp=sharing) [(PDF)](https://docs.google.com/presentation/d/19dlzcfDaVMIx1KKaaM4gxlrzW7zuVZe8hd8awFKvjHg/export/pdf)
