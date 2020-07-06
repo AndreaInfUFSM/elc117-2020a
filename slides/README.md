@@ -27,7 +27,7 @@ Slides
 
 - Programação concorrente
    - [Introdução à programação concorrente](https://docs.google.com/presentation/d/1mYoRmmIQJaBi6Y_UkPWnx9kLx4SO2QTFVBlE-anwlHE/edit?usp=sharing) ([Vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing))
-   - [Programação concorrente em Java](https://docs.google.com/presentation/d/1sD3qdfyfVYXhpepPM11DWabAzEgtaO0-0gAQRoDmwgE/edit?usp=sharing) ([Vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing))
+   - [Programação concorrente em Java](https://docs.google.com/presentation/d/1sD3qdfyfVYXhpepPM11DWabAzEgtaO0-0gAQRoDmwgE/edit?usp=sharing) ([Vídeo](https://drive.google.com/file/d/1pVB5T20Pef-UT4SqvCC3yiMNB6Iih3J0/view?usp=sharing))
 
   
 <!--
