@@ -24,7 +24,7 @@ Slides
    - [Uso de static em Java](https://docs.google.com/presentation/d/1VLjYnXuZ_Wisa7lZ0ANWdhFb4vPrgfopJv1oQC7bLzk/edit?usp=sharing) 
    - [Herança em Java](https://docs.google.com/presentation/d/1RqHDauB2jNiwos4CaNZfav5YgywwOxUyCtDrM60j36I/edit?usp=sharing) 
    - [Classes abstratas e interfaces](https://docs.google.com/presentation/d/1ULQLcneDaqEvTXYPbcVLtOWtjK7nRX-y3pc7v_-z_ao/edit?usp=sharing) 
-   - [Exceções em Java](https://docs.google.com/presentation/d/1x5yeTPjAPTk-VWN3ooYNbiNaDxBzySv1DDeVEIovYOs/edit?usp=sharing)
+   - [Exceções em Java](https://docs.google.com/presentation/d/1ShQJurD5j61MpEzwV2FM2L5Hx3N_f2nzqs4nwyWVrIA/edit?usp=sharing)
    
 - Programação concorrente
    - [Introdução à programação concorrente](https://docs.google.com/presentation/d/1mYoRmmIQJaBi6Y_UkPWnx9kLx4SO2QTFVBlE-anwlHE/edit?usp=sharing) ([Vídeo](https://drive.google.com/file/d/11QWQgXAeDy5wg4LBwRe0QSISnf_8xbkC/view?usp=sharing))
