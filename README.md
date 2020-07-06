@@ -252,7 +252,7 @@ Sala: 368, CT - Práticas: 334, CT
 <td align="right">33</td>
 <td>0/07/2020</td>
 <td>Seg</td>
- <td>Introdução à programação concorrente. Concorrência em Java: <a href="praticas/oo/java7">prática</a> com classe Thread, interface Runnable, métodos start e join.</td>
+ <td>Introdução à programação concorrente. Concorrência em Java: <a href="praticas/oo/java7">prática</a> com classe Thread, interface Runnable, métodos run, start e join.</td>
 </tr>
 
 </tbody></table>
