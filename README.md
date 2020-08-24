@@ -250,14 +250,14 @@ Sala: 368, CT - Práticas: 334, CT
 
 <tr>
 <td align="right">33</td>
-<td>0/07/2020</td>
+<td>06/07/2020</td>
 <td>Seg</td>
  <td>Introdução à programação concorrente. Concorrência em Java: <a href="praticas/oo/java7">prática</a> com classe Thread, interface Runnable, métodos run, start e join.</td>
 </tr>
 
 <tr>
 <td align="right">33</td>
-<td>0/07/2020</td>
+<td>08/07/2020</td>
 <td>Seg</td>
  <td>Problemas de programação concorrente: sincronização. Exclusão mútua em Java: <a href="praticas/oo/java8">prática</a> com synchronized.</td>
 </tr>
